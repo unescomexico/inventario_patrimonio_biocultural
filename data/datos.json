@@ -1,0 +1,1185 @@
+{
+  "practicas": [
+    {
+      "ID": "PC-01",
+      "Nombre de la práctica": "Pesca artesanal",
+      "Categoría PCI": "Conocimientos y usos relacionados con la naturaleza y el universo",
+      "Ámbito UNESCO": "Conocimientos y técnicas tradicionales pesqueras; Manejo del espacio y entorno geográfico; Sistemas de organización",
+      "Idioma": "Español",
+      "Comunidades vinculadas": "Villa y Puerto Coronel Andrés Sánchez Magallanes; ejidos y localidades del sistema lagunar Carmen-Pajonal-Machona",
+      "Historia y origen": "La pesca artesanal es una de las actividades más antiguas de la comunidad, arraigada desde antes de la memoria viva de los portadores actuales. Se desarrolla en el sistema lagunar Carmen-Pajonal-Machona, uno de los ecosistemas costeros más productivos del Golfo de México. La práctica pasó de generación en generación dentro de las familias pescadoras: padres y abuelos enseñaron a sus hijos las rutas, los bancos naturales, los ciclos de las especies y las técnicas de captura. Con el tiempo se constituyeron cooperativas pesqueras formales que regulan el acceso a los recursos y articulan la comercialización. Más de treinta años sin nuevas concesiones federales han generado tensiones en la gobernanza del sector.",
+      "Descripción general": "La pesca artesanal en el sistema lagunar se orienta principalmente a la extracción de ostión de fondo, jaiba, robalo, sierra, camarón y otras especies de escama marina. Los pescadores operan en embarcaciones de fibra de vidrio o madera con motores de dos tiempos, empleando redes, atarrayas, palangres y buceo. La jornada inicia de madrugada; los portadores conocen con precisión los bancos naturales de ostión (localizados con vara y experiencia táctil), los movimientos de mareas, los ciclos de veda y las zonas de mayor productividad. Existen nueve organizaciones con permiso de extracción de fondo en el sistema lagunar, que en conjunto benefician a aproximadamente 1,400 personas entre hombres y mujeres.",
+      "Elementos, procesos y técnicas": "Técnicas: extracción con vara en bancos naturales, uso de atarrayas y redes de enmalle, palangres, buceo. Instrumentos: embarcaciones de fibra de vidrio y madera, motores de 2 tiempos, GPS, videosondas, redes, canastas y sartas para granja. Proceso: localización de bancos → extracción → desconchado (en familia o por desconchadores contratados) → clasificación → entrega a cooperativa → comercialización. Conocimiento ecológico: identificación de especies, lectura de mareas, localización táctil de bancos naturales, reconocimiento de ciclos de desove.",
+      "Función social": "La pesca es el principal sustento económico de las familias costeras de la región. Las cooperativas funcionan como espacio de organización colectiva, gobernanza del territorio acuático y negociación frente a instituciones. La práctica refuerza la identidad territorial y el vínculo con el sistema lagunar. Genera empleo indirecto (desconchadores, transportistas, comerciantes). Las mujeres participan activamente en el desconchado.",
+      "Cambios e innovaciones": "Incorporación de GPS y videosondas para localización de bancos. Uso de embarcaciones con motores modernos. Transición de sartas artesanales a canastas australianas, españolas y Nestier en la ostricultura. Surgimiento de granjas de ostión con permiso de fomento como complemento a la extracción de fondo. Mayor exigencia de manifiestos de impacto ambiental para nuevas concesiones.",
+      "Portadores identificados": "Socios de cooperativas pesqueras (hombres y mujeres); la cooperativa del Chayote del Playón cuenta con 147 socios. Pescadores libres que operan sin concesión formal. Desconchadores y desonchadoras (trabajo familiar). Representantes de federaciones de cooperativas, como Isaí Hernández López (37 años, representante de cinco cooperativas).",
+      "Transmisión del conocimiento": "Observación directa desde la infancia; hijos e hijas acompañan a los padres desde pequeños. Aprendizaje práctico en embarcaciones y en el proceso de desconchado doméstico. Transmisión de conocimiento ecológico (zonas, especies, mareas) de manera oral e implícita. Cooperativas como espacios de socialización del conocimiento técnico.",
+      "Estado de vitalidad": "Vigente, con fragilidad institucional. Riesgo por cierre de nuevas concesiones federales y contaminación lagunar.",
+      "Vínculo con el territorio": "Sistema lagunar Carmen-Pajonal-Machona; bancos naturales de ostión; muelle pesquero de la comunidad.",
+      "Calendario": "Actividad continua. Vedas: abril y mayo. Mayor demanda comercial en Semana Santa y fiestas de diciembre.",
+      "Actores institucionales": "CONAPESCA (permisos y regulación); cooperativas locales; federaciones de cooperativas; Dirección de Ordenamiento Pesquero y Acuacultura.",
+      "Potencial turístico": "Alto. Turismo de experiencia: salidas en lancha, acompañamiento en extracción de ostión, visita a granjas.",
+      "Núm. portadores referencia": "~1,400 personas vinculadas a 9 cooperativas con permiso de fondo en el sistema lagunar.",
+      "Notas complementarias": "Segunda producción nacional de ostión. La cooperativa del Botadero y el Matadero vende hasta 600 millares por semana.",
+      "Fortalezas (FLOR)": "Conocimiento ecológico profundo; organización cooperativa activa; innovación técnica (GPS, videosondas, canastas australianas); identidad territorial fuerte; infraestructura del muelle pesquero.",
+      "Logros (FLOR)": "Sustento económico familiar sostenido por décadas; construcción del muelle pesquero; adopción exitosa de innovaciones técnicas; continuidad generacional activa.",
+      "Oportunidades (FLOR)": "Turismo de experiencia pesquera; vinculación con universidades para estudios de impacto ambiental; diversificación hacia otras especies en temporada baja; fortalecimiento organizacional.",
+      "Retos (FLOR)": "Dependencia de intermediarios (coyotes); ausencia de nuevos permisos federales (más de 30 años); contaminación del sistema lagunar por ingenios, petroquímica y ganadería; relevo generacional incierto.",
+      "Amenazas (FLOR)": "Contaminación por industrias aledañas; cambio climático (salinidad, temperatura); disminución de especies; migración juvenil hacia centros urbanos."
+    },
+    {
+      "ID": "PC-02",
+      "Nombre de la práctica": "Ostricultura",
+      "Categoría PCI": "Conocimientos y usos relacionados con la naturaleza y el universo",
+      "Ámbito UNESCO": "Conocimientos y técnicas tradicionales pesqueras y acuícolas; Manejo del espacio y entorno geográfico; Sistemas de organización",
+      "Idioma": "Español",
+      "Comunidades vinculadas": "Villa y Puerto Coronel Andrés Sánchez Magallanes; Ejido El Alacrán 1ª y 2ª sección; Santa Ana; La Machona",
+      "Historia y origen": "La ostricultura es la actividad productiva más importante de Sánchez Magallanes y zona costera de Cárdenas, Tabasco. Surgió como extensión natural de la extracción de ostión de fondo del sistema lagunar, aprovechando la riqueza de los bancos naturales. Con el tiempo los productores transitaron de la extracción libre hacia el cultivo controlado en granjas, incorporando sistemas de canastas y colectores. Hoy el municipio de Cárdenas ocupa el segundo lugar nacional en producción de ostión, con la mayor parte del volumen generado en el sistema lagunar Carmen-Pajonal-Machona.",
+      "Descripción general": "La ostricultura combina la extracción de ostión de fondo (bancos naturales) con el cultivo en granja (permiso de fomento). Los productores obtienen semilla a través de colectores de concha seca durante el período de desove (15 días), monitorean el asentamiento larval y trasladan los colectores a la granja. El cultivo se realiza en sartas de 60 conchas, canastas australianas, canastas españolas y sistemas Nestier. El ostión crece aproximadamente 1 cm por mes. Cuando es necesario se realiza 'soleo' (volteo para control de plaga) y separación de mazos para evitar mortalidad. El desconchado es actividad familiar: esposas, hijos y personas contratadas participan; una cooperativa puede producir 160 millares semanales.",
+      "Elementos, procesos y técnicas": "Técnicas: colecta de semilla con conchas madre como sustrato; sartas tradicionales; canastas australianas, españolas y Nestier; soleo y separación de mazos. Instrumentos: vara de exploración (para localización de bancos), salómetro (medición de salinidad), conchas cóncavas, popote, manguera (separación de sartas). Proceso: localización de banco → desove (monitoreo) → colocación de colectores → crecimiento en granja → separación → cosecha → desconchado → entrega/comercialización. Conocimiento: lectura de signos ambientales del desove, selección de zonas (canto entre lodo y ostión), manejo de salinidad.",
+      "Función social": "Principal fuente de ingreso de las familias costeras. Articula a toda la familia en las fases de cultivo y desconchado. Las cooperativas son espacios de gobernanza del territorio acuático y de negociación institucional. Genera empleo para desconchadores y desonchadoras externas a las cooperativas.",
+      "Cambios e innovaciones": "Transición de sartas artesanales a canastas australianas, españolas y Nestier. Incorporación del salómetro para monitoreo de salinidad. Uso incipiente de semilla de laboratorio a través de apoyos institucionales. Cambio del régimen de concesión al de permiso de fomento (4 años, con porcentaje sobre la producción).",
+      "Portadores identificados": "Socios de cooperativas con permiso de extracción y de fomento. Desconchadores y desonchadoras. Representantes de federaciones de cooperativas. Pescadores libres que también acceden a los bancos.",
+      "Transmisión del conocimiento": "Aprendizaje familiar desde la infancia, acompañando a padres en la granja y en el desconchado. Las cooperativas socializan el conocimiento técnico entre socios. Visitas de universidades y técnicos institucionales para innovaciones específicas.",
+      "Estado de vitalidad": "Vigente y dinámica. Segunda producción nacional. Fragilidad por contaminación lagunar y restricciones de permisos.",
+      "Vínculo con el territorio": "Sistema lagunar Carmen-Pajonal-Machona; bancos naturales; granjas con permiso de fomento.",
+      "Calendario": "Actividad continua. Desove: periodo específico (monitoreo con colector testigo). Mayor demanda: Semana Santa y fiestas de diciembre.",
+      "Actores institucionales": "CONAPESCA; SEMARNAT (impacto ambiental); cooperativas; universidades (acercamientos).",
+      "Potencial turístico": "Alto. Visita a granjas, recorrido lagunar, demostración de desconchado y degustación.",
+      "Núm. portadores referencia": "~1,400 personas en 9 organizaciones con permiso de fondo.",
+      "Notas complementarias": "El sistema lagunar Carmen-Pajonal-Machona es catalogado como 'santuario' de semilla natural por los propios productores.",
+      "Fortalezas (FLOR)": "Conocimiento ecológico profundo; organización cooperativa robusta; posición nacional en producción; capacidad de innovación técnica; calidad del producto local.",
+      "Logros (FLOR)": "Segunda producción nacional de ostión; adopción de sistemas de canastas; exportación a Ciudad de México, Oaxaca, Chiapas, Puebla, Mérida; sustento económico familiar sostenido.",
+      "Oportunidades (FLOR)": "Valor agregado (ostión procesado, presentaciones); exportación a otros estados; turismo de experiencia en granja; vinculación universitaria para mejora productiva.",
+      "Retos (FLOR)": "Intermediarismo (coyotes); limitación de nuevas concesiones; contaminación; falta de planes de manejo comunitario formales.",
+      "Amenazas (FLOR)": "Contaminación por ingenios, petroquímica y ganadería; cambios en salinidad por fenómenos climáticos; disminución de semilla natural."
+    },
+    {
+      "ID": "PC-03",
+      "Nombre de la práctica": "Agricultura tradicional (cultivo de coco y frutales)",
+      "Categoría PCI": "Conocimientos y usos relacionados con la naturaleza y el universo",
+      "Ámbito UNESCO": "Conocimientos y técnicas tradicionales agrícolas; Manejo del espacio y entorno geográfico",
+      "Idioma": "Español",
+      "Comunidades vinculadas": "Ejido San Rafael, Sánchez Magallanes, El Alacrán, Sinaloa, Yucateco, Oaxtepec, Pailebot (municipio de Cárdenas, Tabasco)",
+      "Historia y origen": "El cultivo del cocotero es una actividad ancestral de la franja costera de Cárdenas, practicada por las familias desde antes de que los actuales portadores nacieran. Los abuelos y padres sembraban coco alto del Pacífico en tierras vírgenes, sin fertilizantes, obteniendo producciones de 10,000 a 12,000 cocos por cada dos o tres meses. La producción era principalmente de copra, vendida en cooperativas copraberas. Con el tiempo, la presencia de la industria petrolera y la contaminación ambiental han reducido la fertilidad de los suelos, obligando a los productores a incorporar fertilizantes, compost y otros insumos para mantener la productividad. Recientemente, programas como Sembrando Vida y la alianza con ENI han promovido la organización en SPR/CPR y la diversificación hacia guanábana y otros frutales.",
+      "Descripción general": "La agricultura tradicional costera de la región se centra en el cultivo del cocotero (coco híbrido, malayo y alto del Pacífico) y, en menor medida, guanábana y otros frutales. La siembra se realiza respetando los ciclos lunares (cuarto menguante), tradición heredada de los abuelos. El proceso incluye: preparación del hueco, aplicación de fertilizante y cal, siembra del coco, cajete con compost elaborado de forma familiar (hojas de coco, hojas de cocoíte), limpieza periódica del área y control de plagas. En época de seca se usa motobomba para irrigación. Las plagas principales son el picudo, la roña y el grillo amarillo (en temporada de calor). Los 59 productores de la SPR, organizados en siete comunidades, trabajan aproximadamente 5 hectáreas por familia. La cosecha principal es en agosto y diciembre. El principal canal de comercialización es el intermediario ('coyote') a 6-8 pesos por coco.",
+      "Elementos, procesos y técnicas": "Técnicas: siembra en cuarto menguante; preparación de compost familiar; aplicación de fertilizante y cal; irrigación con motobomba; control de plagas con drone (insumos de ENI). Herramientas: machete, pala, motosierra, motobomba, sacador de coco, secadero rústico para copra, equipos de protección personal. Proceso de copra: cosecha → apertura del coco → secado en secadero (varios días al sol) → envasado en costales → venta. Productos derivados: agua de coco tierno, copra, aceite de coco (por algunos productores externos a la CPR).",
+      "Función social": "El cultivo del coco es descrito por los portadores como 'el pan de cada día'. Vincula a toda la familia, incluyendo hijos desde pequeños. Representa la continuidad de un legado productivo de dos o más generaciones. La SPR ha fortalecido la organización colectiva y la interlocución con instituciones (ENI, Sembrando Vida).",
+      "Cambios e innovaciones": "Incorporación de fertilizantes externos y compost elaborado. Uso de drones para rociado fitosanitario (apoyo ENI). Diversificación hacia guanábana (Sembrando Vida). Formación de SPR/CPR como estructura de organización colectiva. Inicio de facturación a través de la CPR. Acceso a semillas de coco híbrido y variedades mejoradas.",
+      "Portadores identificados": "59 productores organizados en SPR (7 comunidades), de los cuales 12 son mujeres. Productores libres (cocoteros independientes). Doña Elda Rodríguez Montiel (San Rafael) como portadora representativa. Participación familiar intergeneracional.",
+      "Transmisión del conocimiento": "Observación e imitación desde la infancia, acompañando a padres en el cocotal. Transmisión oral de la tradición lunar para siembra y cosecha. Capacitaciones de ENI y Sembrando Vida han reforzado y sistematizado el conocimiento tradicional.",
+      "Estado de vitalidad": "Vigente, con reducción de productividad por factores ambientales. Organización creciente a través de SPR.",
+      "Vínculo con el territorio": "Franja costera de Cárdenas; ejidos con cocotales; terrenos familiares.",
+      "Calendario": "Siembra según ciclos lunares. Cosecha principal: agosto y diciembre. Mayor afectación por plagas: marzo-abril (calor).",
+      "Actores institucionales": "ENI (proyecto Cocuní); Sembrando Vida; cooperativas copraberas (históricas); comisarías ejidales.",
+      "Potencial turístico": "Medio-alto. Ruta de cocotales, demostración de elaboración de aceite y copra, venta de agua de coco tierno.",
+      "Núm. portadores referencia": "59 productores en SPR + productores libres (número no determinado). 12 mujeres en la SPR.",
+      "Notas complementarias": "El coco alto del Pacífico tarda 7 años en producir; el híbrido de 4 a 6 años. Siembra en cuarto menguante como práctica tradicional vigente.",
+      "Fortalezas (FLOR)": "Conocimiento agrícola acumulado; transmisión intergeneracional activa; organización en SPR/CPR; capacidad de adopción de innovaciones; identidad territorial fuerte.",
+      "Logros (FLOR)": "Sustento económico familiar sostenido; formación de SPR con 59 productores de 7 comunidades; adopción de drone para control de plagas; diversificación productiva.",
+      "Oportunidades (FLOR)": "Ruta agro-ecoturística de cocotales; producción de aceite de coco y otros derivados; diversificación con guanábana; vinculación con universidades para valor agregado.",
+      "Retos (FLOR)": "Dependencia del coyote (precios bajos); impacto ambiental de la industria petrolera; plagas; falta de canal de comercialización directo; relevo generacional frágil.",
+      "Amenazas (FLOR)": "Contaminación por plataformas petroleras; plagas (picudo, roña, grillo amarillo); cambio climático; migración juvenil."
+    },
+    {
+      "ID": "PC-04",
+      "Nombre de la práctica": "Artesanía (cartonería y arte en materiales reciclados y naturales)",
+      "Categoría PCI": "Artes y oficios tradicionales",
+      "Ámbito UNESCO": "Tecnologías y elaboración de objetos ornamentales y utilitarios; Creatividad y destreza",
+      "Idioma": "Español",
+      "Comunidades vinculadas": "Villa y Puerto Coronel Andrés Sánchez Magallanes",
+      "Historia y origen": "La artesanía en Sánchez Magallanes no responde a un gremio o tradición colectiva consolidada desde siglos atrás, sino a la creatividad individual de portadores que han adaptado materiales locales y reciclados para producir objetos ornamentales y utilitarios. Francisco Ventura Castillo, artesano principal, inició con la elaboración de piñatas hace aproximadamente 25 años, luego de estudiar cursos de arte en Ciudad Madero, Tamaulipas. Con el tiempo diversificó su producción hacia cartonería, figuras gigantes para desfiles, carros alegóricos, arreglos florales naturales para la Virgen de Guadalupe y vestidos estilizados con escamas de pescado. Otros artesanos en la comunidad trabajan principalmente con tela y globos.",
+      "Descripción general": "La artesanía local se caracteriza por el uso creativo de materiales reciclados y naturales: cartón, periódico, alambre, discos CD, costales, fibra de coco, hojas de joloche (hoja de maíz), escamas de pescado sábalo, madera y mangle seco. El artesano principal, Francisco Ventura Castillo ('Pancho'), trabaja con su sobrina Gabriela, quien se especializa en dibujo y moldes. Entre sus encargos: piñatas temáticas, figuras gigantes de animales marinos (camarones, pescados, jaiba) para el Cebeta 100, letras decorativas para bodas, arreglos florales para fiestas religiosas. Las escamas de pescado se lavan con cloro y Pinol, se secan al sol y se pintan con acrílico o esmalte para hacer flores, diademas o vestidos estilizados. El artesano también realiza perifoneo y cuenta con conocimientos de baile de salón y folklore.",
+      "Elementos, procesos y técnicas": "Materiales: cartón, alambre, periódico, libros desechados, discos CD, costales, fibra de coco, escamas de pescado, hojas de joloche, mangle seco, pintura acrílica y esmalte. Técnicas: moldeado en cartón (papier mâché), armado con estructura de alambre, decoración con pintura y materiales naturales. Proceso de escamas: recolección → lavado con cloro y jabón + Pinol → secado al sol (2 días) → pintura → elaboración de flores/vestidos. Proceso de piñata: diseño (boceto de la sobrina) → armado con cartón y alambre → decoración → entrega.",
+      "Función social": "La artesanía complementa el ingreso familiar. Atiende encargos de instituciones educativas, familias para celebraciones, fiestas religiosas y eventos cívicos. El artesano ha propuesto proyectos de inclusión para adultos mayores (taller de piñatas con personas de tercera edad), sin éxito en acceder a la Casa de la Cultura.",
+      "Cambios e innovaciones": "Diversificación hacia materiales naturales locales (fibra de coco, escamas de pescado, hojas de joloche). Incorporación de referencias de internet y redes sociales para nuevos diseños. Producción de figuras monumentales para carros alegóricos y desfiles escolares. Uso de manta tabasqueña como fondo decorativo en el carro alegórico de la Fiesta de Santa Ana.",
+      "Portadores identificados": "Francisco Ventura Castillo (54 años, nativo de San Marías), artesano principal. Su sobrina Gabriela, especialista en dibujo y moldes. Otros artesanos no identificados plenamente que trabajan con tela y globos.",
+      "Transmisión del conocimiento": "Transmisión familiar limitada (artesano y sobrina). Aprendizaje autodidacta y por cursos externos. No existe espacio institucional de enseñanza (Casa de la Cultura inaccesible). El artesano ha intentado tres veces obtener un espacio sin éxito.",
+      "Estado de vitalidad": "Frágil. Prácticamente un solo núcleo de portadores activos (artesano + sobrina). Sin relevo generacional claro.",
+      "Vínculo con el territorio": "Sánchez Magallanes; recursos naturales del entorno (fibra de coco, mangle, hojas de joloche, escamas de pescado).",
+      "Calendario": "Noviembre-diciembre (desfiles, posadas, navidad). Enero (Día de Reyes). Abril-mayo (primavera, desfiles). Año completo para piñatas y encargos.",
+      "Actores institucionales": "Casa de la Cultura (negado acceso); instituciones educativas (Cebeta 100, Universidad Tecnológica de la Venta); delegación municipal.",
+      "Potencial turístico": "Medio. Taller demostrativo, venta de artesanías locales, souvenir con motivos marinos y lagunares.",
+      "Núm. portadores referencia": "2 portadores activos (artesano y sobrina). Otros artesanos de número no determinado en la comunidad.",
+      "Notas complementarias": "El artesano también trabaja en perifoneo. Ha participado en la Fiesta de Santa Ana con carro alegórico decorado con garzas y pelícanos de cartón.",
+      "Fortalezas (FLOR)": "Creatividad e innovación con materiales locales y reciclados; reconocimiento comunitario e institucional (escuelas, eventos); identidad cultural fuerte.",
+      "Logros (FLOR)": "Continuidad de la práctica por 25 años; encargos de instituciones educativas (Cebeta 100, Universidad Tecnológica); reconocimiento comunitario creciente.",
+      "Oportunidades (FLOR)": "Difusión digital y ventas en línea; vinculación con turismo (souvenir local); talleres con adultos mayores; exposiciones en eventos culturales.",
+      "Retos (FLOR)": "Escasísimo número de portadores; falta de espacio institucional de enseñanza; baja valoración económica; poca difusión digital; dependencia de encargos individuales.",
+      "Amenazas (FLOR)": "Pérdida del único portador activo por edad o situación personal; falta de relevo; migración juvenil."
+    },
+    {
+      "ID": "PC-05",
+      "Nombre de la práctica": "Cocina tradicional",
+      "Categoría PCI": "Conocimientos y usos relacionados con la naturaleza y el universo",
+      "Ámbito UNESCO": "Cocinas tradicionales, saberes culinarios y prácticas domésticas",
+      "Idioma": "Español",
+      "Comunidades vinculadas": "Villa y Puerto Coronel Andrés Sánchez Magallanes; comunidades del sistema lagunar",
+      "Historia y origen": "La cocina tradicional de Sánchez Magallanes es heredera directa del sistema lagunar y marino: sus ingredientes fundamentales son el ostión, el camarón, el robalo, la sierra, la jaiba y otros productos frescos de la pesca artesanal. Las portadoras aprendieron a cocinar observando y ayudando a sus madres y tías, en una cadena de transmisión principalmente femenina. Doña Mariana Gómez Córdoba heredó el restaurante familiar con más de 50 años de historia en la comunidad. Doña Silvia Moreno Green, tras 20 años trabajando en Cancún (incluyendo el hotel César Park con certificación ISO 9001), regresó a Sánchez Magallanes y se instaló con un puesto de antojitos. Don Ignacio Granados Barajas, originario de Álamo de Mapache, Veracruz, llegó a la comunidad hace 30 años y adaptó la tradición del guisado de barbacoa a leña (mangle colorado y blanco), combinándola con chiles propios de su tierra natal.",
+      "Descripción general": "La cocina local destaca por el uso de productos frescos de la laguna y el mar, combinados con técnicas culinarias regionales. Platillos representativos: camarón empanizado, ostión al natural y preparado, robalo a la plancha, jaiba en diversas preparaciones, barbacoa a leña, tamales (chanchane), tortillas, antojitos locales. La primera exposición gastronómica de la comunidad se realizó en Semana Santa, vinculada al proyecto UNESCO. Las portadoras cocinan principalmente por necesidad y tradición; los saberes se transmiten en el ámbito doméstico. Doña Lidia Córdoba López, propietaria de La Lapa (mirador), selecciona personalmente su camarón en Ciudad del Carmen o Paraíso para garantizar calidad.",
+      "Elementos, procesos y técnicas": "Técnicas: empanizado de camarón (primero harina, luego huevo), guisado de barbacoa a leña de mangle, elaboración de tamales chanchane, elaboración de tortillas a mano, fritura, cocción a la plancha. Ingredientes característicos: camarón fresco, ostión, robalo, sierra, jaiba, epazote, chiles (ancho, guajillo, pasilla, mulato, de árbol). Leña: mangle colorado y mangle blanco (para barbacoa, aportan sabor y durabilidad). Proceso de barbacoa: marinado → cocción nocturna a fuego lento con fogón de leña → servicio. Sazón individual: cada cocinera tiene su receta propia, transmitida con variaciones personales.",
+      "Función social": "La cocina es espacio de cohesión social y encuentro comunitario. Los restaurantes y puestos son puntos de sociabilidad. La exposición gastronómica en Semana Santa convocó a visitantes externos y visibilizó la práctica. La cocina es principal fuente de ingreso para las portadoras mujeres. Los hijos aprenden observando, aunque no siempre continúan la tradición.",
+      "Cambios e innovaciones": "Incorporación de técnicas aprendidas en contextos urbanos (Cancún, Veracruz). Uso de refrigeración y equipamiento moderno en locales. Exploración de certificaciones de inocuidad y buenas prácticas. Primera exposición gastronómica pública en Semana Santa (2024-2025).",
+      "Portadores identificados": "Doña Silvia Moreno Green (San José Marayá, ~55 años; certificación ISO 9001; 30 años en cocina). Doña Mariana Gómez Córdoba (47 años, nativa; restaurante familiar >50 años). Doña Lidia Córdoba López (56 años; La Lapa, mirador). Don Ignacio Granados Barajas (Álamo de Mapache, Veracruz; ~30 años en la comunidad; especialidad barbacoa a leña). Cocineras domésticas no registradas.",
+      "Transmisión del conocimiento": "Observación y práctica doméstica desde la infancia. Aprendizaje junto a madres, tías y abuelas. Hijos e hijas aprenden de manera informal, aunque no siempre continúan el negocio. Algunos portadores han incorporado conocimientos externos (cursos, experiencia en restaurantes).",
+      "Estado de vitalidad": "Vigente. Continuidad asegurada en el corto plazo. Riesgo de pérdida de recetas específicas por falta de documentación.",
+      "Vínculo con el territorio": "Sistema lagunar (insumos frescos); locales de la comunidad (La Lapa, restaurante familiar); playa y mirador.",
+      "Calendario": "Actividad continua. Mayor demanda: Semana Santa, diciembre, verano turístico.",
+      "Actores institucionales": "UNESCO México (vinculación); municipio de Cárdenas (eventos gastronómicos).",
+      "Potencial turístico": "Alto. Ruta gastronómica lagunar, talleres de cocina, degustación de platillos con productos del día.",
+      "Núm. portadores referencia": "Al menos 4 portadores identificados en trabajo de campo. Cocineras domésticas no cuantificadas.",
+      "Notas complementarias": "Don Ignacio puede preparar hasta 300 kg de barbacoa. El mangle colorado aporta sabor único a la barbacoa local.",
+      "Fortalezas (FLOR)": "Calidad y frescura de productos lagunares; identidad culinaria local; reconocimiento por vinculación con UNESCO; cohesión social que genera la cocina.",
+      "Logros (FLOR)": "Primera exposición gastronómica comunitaria en Semana Santa; vinculación con UNESCO; sustento económico familiar sostenido; continuidad de más de 50 años en algunos establecimientos.",
+      "Oportunidades (FLOR)": "Turismo gastronómico; exposiciones culinarias; difusión en medios digitales y comunicación; vinculación con UNESCO como sello de calidad.",
+      "Retos (FLOR)": "Ingresos insuficientes; falta de talleres y espacios de capacitación; poca difusión; relevo generacional desinteresado; ausencia de registro de recetas.",
+      "Amenazas (FLOR)": "Contaminación lagunar que afecta calidad de insumos; competencia de productos externos; migración de portadoras."
+    },
+    {
+      "ID": "PC-06",
+      "Nombre de la práctica": "Medicina tradicional",
+      "Categoría PCI": "Conocimientos y usos relacionados con la naturaleza y el universo",
+      "Ámbito UNESCO": "Conocimientos de medicina y herbolaria tradicional",
+      "Idioma": "Español",
+      "Comunidades vinculadas": "Villa y Puerto Coronel Andrés Sánchez Magallanes",
+      "Historia y origen": "La medicina tradicional de Sánchez Magallanes es heredera de una cadena de conocimientos transmitidos por vía femenina desde las abuelas. Doña Rosa María Pérez Servín (66 años) aprendió el arte de palaguear, curar el empache y tratar el cuajo observando a su abuela, que ejercía estas prácticas en la comunidad. La abuela también fue partera; ese conocimiento pasó en mayor medida a la hermana de Rosa María, Sebastiana Rodríguez, quien sí ejerce la partería y cuenta con reconocimiento del sector salud. La medicina tradicional ha convivido históricamente con la medicina alópata, aunque sin reconocimiento formal del sistema de salud institucional (excepto en partería). Los portadores la ofrecen como servicio complementario, sin tarifa fija.",
+      "Descripción general": "Las prácticas de medicina tradicional identificadas incluyen: palagueo (apertura manual de garganta en niños con dificultad para comer), cura del empache (diagnóstico táctil y aplicación de purgante con aceite de ricino, aceite de purga, aceite de olivo, de almendra y virgen, más infusiones de maguey, toronjil, manzanilla, gordolobo y canela), cura del cuajo (caída de órganos en niños por golpe; terapia de masaje, acomodo y vendaje abdominal) y preparación de purgantes para mujeres con dificultad para embarazarse (limpieza de matriz). Sebastiana Rodríguez ejerce partería con reconocimiento del sector salud y emite constancias de nacimiento. La curandera considera que su práctica es instrumental: 'Yo soy un instrumento del Señor; en mí no crean, crean al Señor.'",
+      "Elementos, procesos y técnicas": "Técnicas de palagueo: introducción de dedo lubricado con aceite de cocina para abrir la garganta del niño. Purgante: mezcla de aceite de ricino + aceite de purga + aceite de olivo + aceite de almendra + aceite virgen; infusión de maguey, toronjil, manzanilla, gordolobo, canela. Cura del cuajo: masaje de piernas y cuerpo en posición boca abajo; golpes suaves en plantas de pies; vendaje abdominal. Partería (Sebastiana Rodríguez): atención al parto + registro civil (tamiz, constancia de nacimiento). Plantas: las compran en farmacias; no se cultivan en domicilio actualmente. Oración: Padre Nuestro y Ave María como parte del ritual.",
+      "Función social": "Atención a niños, mujeres embarazadas o con dificultad para concebir, y adultos con empache. Complementa al sistema de salud formal, especialmente cuando la medicina alópata no encuentra diagnóstico. Genera cohesión social (pacientes de Cancún, Sinaloa, San Ramón). No cobra tarifa fija: 'lo que me quieran dar'.",
+      "Cambios e innovaciones": "Sebastiana Rodríguez incorporó capacitación del sector salud y coordinación con el centro de salud para registro de nacimientos. Acceso a plantas medicinales vía farmacias (antes recolectadas del entorno). Pérdida progresiva de plantas medicinales del entorno por contaminación y cambio de uso de suelo.",
+      "Portadores identificados": "Doña Rosa María Pérez Servín (66 años): palagueo, empache, cuajo, purgantes para mujeres. Doña Sebastiana Rodríguez (hermana de Rosa María): partera con reconocimiento del sector salud. Referencia a otra curandera de la comunidad (Verónica). Total activas conocidas: 2-3 portadoras.",
+      "Transmisión del conocimiento": "Aprendizaje por observación desde la infancia junto a la abuela. Transmisión femenina intergeneracional. Riesgo: ninguna hija o nuera ha aprendido completamente. La nuera de doña Rosa María ayuda pero no ha heredado la práctica plenamente.",
+      "Estado de vitalidad": "Muy frágil. Pocas portadoras activas, escaso relevo generacional, ausencia de documentación de saberes.",
+      "Vínculo con el territorio": "Sánchez Magallanes; entorno lagunar (plantas medicinales, antes abundantes); domicilio de la curandera.",
+      "Calendario": "Sin estacionalidad definida. Atención continua, incluyendo noches y fines de semana.",
+      "Actores institucionales": "Centro de Salud (coordinación para partería); farmacias locales (provisión de plantas).",
+      "Potencial turístico": "Bajo como atractivo directo. Potencial como componente de turismo cultural y patrimonial (demostración, no atención).",
+      "Núm. portadores referencia": "2-3 portadoras activas identificadas.",
+      "Notas complementarias": "La curandera no cobra tarifa fija. Las plantas medicinales se obtienen en farmacias; la disponibilidad en el entorno natural ha disminuido.",
+      "Fortalezas (FLOR)": "Conocimiento ecológico-médico acumulado; identidad cultural fuerte; reconocimiento comunitario amplio (pacientes de otras ciudades); función social irreemplazable.",
+      "Logros (FLOR)": "Continuidad de 36 años en la práctica (doña Rosa María); atención a pacientes de diversas ciudades; complementariedad con la partería formal (hermana).",
+      "Oportunidades (FLOR)": "Documentación y registro de saberes; articulación con sector salud; vinculación con académicos de herbolaria.",
+      "Retos (FLOR)": "Escasísimo número de portadores; falta de documentación; no reconocimiento del sector salud formal (excepto partería); pérdida de plantas medicinales del entorno.",
+      "Amenazas (FLOR)": "Pérdida de plantas medicinales por contaminación; muerte de las portadoras sin relevo; desinterés generacional."
+    },
+    {
+      "ID": "PC-07",
+      "Nombre de la práctica": "Música y danza tradicional",
+      "Categoría PCI": "Artes de la representación",
+      "Ámbito UNESCO": "Expresiones musicales; Danzas tradicionales",
+      "Idioma": "Español",
+      "Comunidades vinculadas": "Villa y Puerto Coronel Andrés Sánchez Magallanes; comunidades del sistema lagunar",
+      "Historia y origen": "La maestra Silvia de la Cruz Amésquita (65 años) es la figura central de la música y danza en Sánchez Magallanes. Originaria de la comunidad (antes llamada Barra de Santa Ana), hija de pescadores que también comerciaban por el sistema lagunar. Estudió licenciatura en artes, licenciatura en español, licenciatura en abogacía y un doctorado (incompleto) en Guanajuato. Trabajó 30 años como maestra de español y educación artística en la secundaria técnica 30, y en paralelo en el Colegio de Bachilleres en actividades paraescolares artísticas. Ha impartido clases de música, danza, pintura y manualidades en casas de cultura. Ha llevado al ballet folklórico local a concursos a nivel nacional e internacional. El concurso La Voz del Pueblo, organizado en la comunidad, ha tenido impacto regional. El grupo participó en la feria de Villahermosa.",
+      "Descripción general": "La música y danza en Sánchez Magallanes se expresa principalmente a través del ballet folklórico, que incorpora ritmos y vestuarios del folclor tabasqueño y regional. El grupo incluye jóvenes, hijos de bailarines previos, lo que muestra una transmisión intergeneracional activa. El artesano Francisco Ventura Castillo también elabora vestuarios con materiales locales para el grupo. Se han realizado presentaciones en el concurso La Voz del Pueblo (comunidad), feria de Villahermosa, y eventos nacionales e internacionales. La maestra Silvia también domina danzón, salsa, vals y baile de salón, conocimientos que busca compartir con adultos mayores.",
+      "Elementos, procesos y técnicas": "Géneros: folklore tabasqueño, danzón, salsa, vals, baile de salón. Vestuario: elaborado con materiales locales (manta tabasqueña, elementos naturales). Instrumentos: no especificados en detalle; se asume conjunto de música regional. Espacios: no existe sala de ensayo formal ni aula de música en la comunidad. Transmisión: clases impartidas por la maestra en escuelas y casas de cultura.",
+      "Función social": "Espacio de encuentro y cohesión comunitaria intergeneracional. Visibilización de la comunidad a nivel regional, nacional e internacional. El concurso La Voz del Pueblo genera espacio de expresión para el talento local. Cohesión entre jóvenes y adultos; los hijos de bailarines continúan en el grupo.",
+      "Cambios e innovaciones": "Uso de redes sociales para difusión del talento local y convocatoria a eventos. Participación en plataformas de concurso externas (feria de Villahermosa, eventos nacionales). Elaboración de vestuario con materiales naturales locales.",
+      "Portadores identificados": "Maestra Silvia de la Cruz Amésquita (65 años): maestra, coreógrafa, promotora cultural. Jóvenes del ballet folklórico, incluyendo hijos de bailarines anteriores. Francisco Ventura Castillo (elaboración de vestuario).",
+      "Transmisión del conocimiento": "Clases y talleres impartidos por la maestra Silvia en escuelas secundaria y bachillerato. Participación de jóvenes en el grupo de danza (aprendizaje práctico). Padres que llevan a sus hijos al grupo. Falta de espacio físico de ensayo formal.",
+      "Estado de vitalidad": "Vigente con proyección externa. Dependencia alta de un núcleo de portadores. Sin infraestructura de ensayo.",
+      "Vínculo con el territorio": "Sánchez Magallanes; escuelas (secundaria técnica 30, Colegio de Bachilleres); espacios comunitarios.",
+      "Calendario": "Actividad continua. Presentaciones en fiestas patronales, eventos cívicos, feria de Villahermosa, concursos.",
+      "Actores institucionales": "Colegio de Bachilleres; Secundaria Técnica 30; Casa de la Cultura (sin acceso efectivo).",
+      "Potencial turístico": "Alto. Presentaciones en eventos turísticos, espectáculos folclóricos para visitantes.",
+      "Núm. portadores referencia": "Grupo de danza con jóvenes (número no especificado). Maestra Silvia como portadora principal.",
+      "Notas complementarias": "La maestra Silvia procesó uva de marina en vino con sus alumnos de bachillerato; primer lugar en churros de malanga en concurso del Colegio de Bachilleres.",
+      "Fortalezas (FLOR)": "Organización comunitaria activa; transmisión intergeneracional a través del ballet; reconocimiento regional y nacional; capacidad de innovación en vestuario.",
+      "Logros (FLOR)": "Proyección nacional e internacional del ballet folklórico; concurso La Voz del Pueblo; participación en feria de Villahermosa; transmisión intergeneracional activa.",
+      "Oportunidades (FLOR)": "Difusión digital; presentaciones en eventos turísticos locales; fortalecimiento del concurso La Voz del Pueblo; vinculación con Casa de la Cultura.",
+      "Retos (FLOR)": "Ausencia de espacio de ensayo y aula de música; falta de presupuesto institucional; poca remuneración de las actuaciones; dependencia de un solo núcleo de portadores.",
+      "Amenazas (FLOR)": "Falta de infraestructura; migración de jóvenes; dependencia de la maestra Silvia como eje articulador."
+    },
+    {
+      "ID": "PC-08",
+      "Nombre de la práctica": "Fiesta de Santa Ana",
+      "Categoría PCI": "Prácticas sociales, rituales y actos festivos",
+      "Ámbito UNESCO": "Ceremonias y festividades tradicionales; Sistemas de organización",
+      "Idioma": "Español",
+      "Comunidades vinculadas": "Villa y Puerto Coronel Andrés Sánchez Magallanes y 22 comunidades parroquiales del entorno",
+      "Historia y origen": "La Fiesta de Santa Ana tiene más de 100 años de historia documentada en la comunidad. Su núcleo es la Parroquia de Santa Ana, construida y restaurada colectivamente a lo largo de décadas. La festividad original involucraba a todas las comunidades del entorno, que llegaban en peregrinación y participaban activamente. En los últimos años, la separación de Villa Benito como parroquia independiente (Señor de Misericordia, hace ~10 años) redujo el número de comunidades que participan directamente en la organización. Actualmente la fiesta la organizan 12 grupos parroquiales y una red de 20 ermitas de las comunidades restantes. La imagen original de Santa Ana tiene su réplica; ambas son objeto de culto y restauración permanente.",
+      "Descripción general": "La Fiesta de Santa Ana es el evento cultural y religioso más importante del calendario comunitario. Se organiza a través de grupos parroquiales, la red de ermitas y una estructura de coordinación que incluye coordinadores de catequesis, lectores, colectoras, adoración nocturna y cruzados. La fiesta incluye: misas solemnes, peregrinaciones de las comunidades, kermeses, festivales culturales, presentaciones de ballet de otros estados, ballets locales, enrama infantil y participación de niños en catequesis. Los recorridos nocturnos han sido ajustados por condiciones de inseguridad pública. La fiesta genera una derrama económica local significativa y atrae a visitantes de diversas partes del estado.",
+      "Elementos, procesos y técnicas": "Organización: 12 grupos parroquiales + red de 20 ermitas; cargos de coordinadora de colectoras, lectores, comentaristas, adoración nocturna, escuela de La Cruz. Calendario: las fechas se distribuyen entre ermitas en un rol elaborado por el sacerdote y coordinadores; cada ermita tiene su día asignado. Rituales: misas (martes a domingo, 3 misas el domingo), vigilias nocturnas (tercer jueves de cada mes para adoración nocturna), colecta de ofrendas, lectura de la liturgia. Actividades culturales: kermeses, festivales, ballets (locales y visitantes), enrama infantil. Imagen: Santa Ana original + réplica; restauración permanente.",
+      "Función social": "Cohesión social amplia: convoca a creyentes y no creyentes, jóvenes y adultos, diversas comunidades del entorno. Espacio de identidad colectiva y arraigo territorial para toda la comunidad. Derrama económica: locales de comida, artesanías, comercio ambulante. Transmisión de valores, tradición religiosa y sentido de pertenencia a las nuevas generaciones.",
+      "Cambios e innovaciones": "Uso de Facebook y redes sociales para convocatoria y difusión de la festividad. Ajuste de horarios nocturnos por inseguridad. Reducción del área de convocatoria por separación de Villa Benito como parroquia. Participación de ballets de otros estados como novedad cultural.",
+      "Portadores identificados": "Ana Berta Salazar Flores (Berta), 69 años: coordinadora de colectoras (14 personas), adoración nocturna, escuela de La Cruz. Adriana Sánchez Gómez: hermana mayor de la escuela de La Cruz, lectora (20 años), comentarista. Doña Zoila Ramírez Rendón: jefa de turno de adoración nocturna y coordinadora parroquial. Red de coordinadoras de ermitas (22 comunidades). Sacerdotes de la parroquia.",
+      "Transmisión del conocimiento": "Participación desde la infancia en actividades de catequesis y enrama. Estructuras formales de formación (escuela de La Cruz, retiros de 3 días). Aprendizaje en servicio: colectoras, lectoras, comentaristas. Los jóvenes participan en el ballet y en la enrama infantil.",
+      "Estado de vitalidad": "Vigente y activa, con más de 100 años de continuidad. Algunos cambios en cobertura territorial.",
+      "Vínculo con el territorio": "Parroquia de Santa Ana (templo); red de 20 ermitas en 22 comunidades; sistema lagunar (recorridos y procesiones acuáticas).",
+      "Calendario": "Fiesta principal: julio-agosto (Santa Ana, 26 de julio). Actividades parroquiales: martes a domingo todo el año. Vigilias: tercer jueves/miércoles de cada mes.",
+      "Actores institucionales": "Diócesis (sacerdotes); municipio de Cárdenas (seguridad, eventos culturales); ballets de otros estados.",
+      "Potencial turístico": "Alto. Turismo cultural y religioso, gastronomía local, artesanías, espectáculos culturales.",
+      "Núm. portadores referencia": "12 grupos parroquiales + 20 ermitas. Coordinadoras identificadas: al menos 3. Red de participantes indirectos: toda la comunidad.",
+      "Notas complementarias": "La imagen original de Santa Ana y su réplica son objeto de culto y restauración permanente. La fiesta convoca a toda la comunidad independientemente de la adscripción religiosa.",
+      "Fortalezas (FLOR)": "Organización comunitaria muy sólida (12 grupos parroquiales + 20 ermitas); más de 100 años de historia; cohesión social amplia; participación intergeneracional; infraestructura (templo).",
+      "Logros (FLOR)": "Más de 100 años de continuidad; construcción y restauración del templo; derrama económica local; participación de jóvenes en enrama y catequesis; ballets de otros estados.",
+      "Oportunidades (FLOR)": "Turismo cultural y religioso; difusión digital (Facebook ya utilizado); fortalecimiento de vinculación con ermitas; exposición gastronómica y artesanal paralela.",
+      "Retos (FLOR)": "Inseguridad pública (ajuste de recorridos nocturnos); reducción de comunidades participantes por separación de parroquia; costos de participación para familias de comunidades alejadas.",
+      "Amenazas (FLOR)": "Inseguridad pública; pérdida de participación de comunidades periféricas; cambio generacional en la organización."
+    }
+  ],
+  "ods_relaciones": [
+    {
+      "ID Práctica": "PC-01",
+      "Nombre de la práctica": "Pesca artesanal",
+      "Num. ODS": "ODS 1",
+      "Nombre ODS": "Fin de la pobreza",
+      "Nivel de vínculo": "Alto",
+      "Dimensión del vínculo": "Económica",
+      "Descripción del vínculo": "La pesca artesanal es el principal sustento económico de ~1,400 familias costeras. Las cooperativas permiten distribuir los ingresos de forma colectiva.",
+      "Evidencia / fuente": "Testimonio: cooperativa del Chayote del Playón vende 160 millares/semana; cooperativa del Botadero hasta 600 millares/semana.",
+      "Tipo de impacto": "Directo"
+    },
+    {
+      "ID Práctica": "PC-01",
+      "Nombre de la práctica": "Pesca artesanal",
+      "Num. ODS": "ODS 2",
+      "Nombre ODS": "Hambre cero",
+      "Nivel de vínculo": "Alto",
+      "Dimensión del vínculo": "Alimentaria",
+      "Descripción del vínculo": "El ostión, robalo, sierra y camarón son fuentes proteicas fundamentales para la alimentación local y regional. La pesca garantiza acceso a alimentos frescos de calidad.",
+      "Evidencia / fuente": "Testimonio: 'La pesca es lo que nos da prácticamente la economía para la familia' (portadores).",
+      "Tipo de impacto": "Directo"
+    },
+    {
+      "ID Práctica": "PC-01",
+      "Nombre de la práctica": "Pesca artesanal",
+      "Num. ODS": "ODS 8",
+      "Nombre ODS": "Trabajo decente y crecimiento económico",
+      "Nivel de vínculo": "Alto",
+      "Dimensión del vínculo": "Laboral",
+      "Descripción del vínculo": "Genera empleo directo (socios de cooperativa) e indirecto (desconchadores, comerciantes). Las cooperativas regulan las condiciones laborales y la distribución de ingresos.",
+      "Evidencia / fuente": "9 cooperativas con permiso de fondo; 1,400 personas beneficiadas.",
+      "Tipo de impacto": "Directo"
+    },
+    {
+      "ID Práctica": "PC-01",
+      "Nombre de la práctica": "Pesca artesanal",
+      "Num. ODS": "ODS 14",
+      "Nombre ODS": "Vida submarina",
+      "Nivel de vínculo": "Alto",
+      "Dimensión del vínculo": "Ambiental",
+      "Descripción del vínculo": "Los pescadores poseen un conocimiento profundo del ecosistema lagunar, sus ciclos y sus recursos. La práctica es a la vez dependiente y gestora del ecosistema marino-lagunar.",
+      "Evidencia / fuente": "Testimonio: 'Aquí tenemos un santuario que son los bancos naturales' (portador); conocimiento de ciclos de desove y zonas de reproducción.",
+      "Tipo de impacto": "Directo"
+    },
+    {
+      "ID Práctica": "PC-01",
+      "Nombre de la práctica": "Pesca artesanal",
+      "Num. ODS": "ODS 17",
+      "Nombre ODS": "Alianzas para lograr los objetivos",
+      "Nivel de vínculo": "Medio",
+      "Dimensión del vínculo": "Institucional",
+      "Descripción del vínculo": "Las cooperativas funcionan como plataforma de articulación con CONAPESCA, instituciones de investigación y organismos de fomento. Se demanda mayor coordinación.",
+      "Evidencia / fuente": "Solicitud de estudios de impacto ambiental; acercamiento con organismos de investigación.",
+      "Tipo de impacto": "Indirecto"
+    },
+    {
+      "ID Práctica": "PC-02",
+      "Nombre de la práctica": "Ostricultura",
+      "Num. ODS": "ODS 1",
+      "Nombre ODS": "Fin de la pobreza",
+      "Nivel de vínculo": "Alto",
+      "Dimensión del vínculo": "Económica",
+      "Descripción del vínculo": "La ostricultura es la actividad productiva más importante de Sánchez Magallanes, con exportación a Ciudad de México, Oaxaca, Chiapas, Puebla y Mérida. Sustenta el ingreso de cientos de familias.",
+      "Evidencia / fuente": "Tabasco ocupa el 2° lugar nacional en producción de ostión; 9 cooperativas activas.",
+      "Tipo de impacto": "Directo"
+    },
+    {
+      "ID Práctica": "PC-02",
+      "Nombre de la práctica": "Ostricultura",
+      "Num. ODS": "ODS 8",
+      "Nombre ODS": "Trabajo decente y crecimiento económico",
+      "Nivel de vínculo": "Alto",
+      "Dimensión del vínculo": "Laboral",
+      "Descripción del vínculo": "Genera empleo directo en extracción y cultivo, e indirecto en desconchado, transporte y comercialización. Las mujeres tienen participación activa en el desconchado.",
+      "Evidencia / fuente": "Testimonio: 'entre las nueve organizaciones auxiliamos entre 1,400 personas' (portador).",
+      "Tipo de impacto": "Directo"
+    },
+    {
+      "ID Práctica": "PC-02",
+      "Nombre de la práctica": "Ostricultura",
+      "Num. ODS": "ODS 12",
+      "Nombre ODS": "Producción y consumo responsables",
+      "Nivel de vínculo": "Medio",
+      "Dimensión del vínculo": "Ambiental",
+      "Descripción del vínculo": "El uso de colectores naturales (concha madre), la separación de mazos y el control de densidad son prácticas de manejo que buscan la sostenibilidad de los bancos.",
+      "Evidencia / fuente": "Proceso de colecta de semilla con monitoreo de desove; separación de mazos para reducir mortalidad.",
+      "Tipo de impacto": "Indirecto"
+    },
+    {
+      "ID Práctica": "PC-02",
+      "Nombre de la práctica": "Ostricultura",
+      "Num. ODS": "ODS 14",
+      "Nombre ODS": "Vida submarina",
+      "Nivel de vínculo": "Alto",
+      "Dimensión del vínculo": "Ambiental",
+      "Descripción del vínculo": "La ostricultura depende y cuida el sistema lagunar. Los productores son los primeros en reportar degradación ambiental. El ostión filtra el agua y es indicador ecológico.",
+      "Evidencia / fuente": "Testimonio: preocupación por contaminación de ingenios, petroquímica; resistencia a la instalación de laboratorios artificiales.",
+      "Tipo de impacto": "Directo"
+    },
+    {
+      "ID Práctica": "PC-02",
+      "Nombre de la práctica": "Ostricultura",
+      "Num. ODS": "ODS 17",
+      "Nombre ODS": "Alianzas para lograr los objetivos",
+      "Nivel de vínculo": "Medio",
+      "Dimensión del vínculo": "Institucional",
+      "Descripción del vínculo": "Potencial de vinculación con universidades para valor agregado; acercamientos incipientes para mejora productiva.",
+      "Evidencia / fuente": "Mención de acercamientos universitarios para estudio de procesos de valor agregado.",
+      "Tipo de impacto": "Indirecto"
+    },
+    {
+      "ID Práctica": "PC-03",
+      "Nombre de la práctica": "Agricultura tradicional",
+      "Num. ODS": "ODS 1",
+      "Nombre ODS": "Fin de la pobreza",
+      "Nivel de vínculo": "Alto",
+      "Dimensión del vínculo": "Económica",
+      "Descripción del vínculo": "El coco es 'el pan de cada día' para las familias del área rural costera. La SPR de 59 productores en 7 comunidades articula la producción y el acceso a programas de apoyo.",
+      "Evidencia / fuente": "Testimonio: 'el coco es lo que nos da prácticamente la economía para la familia' (portadora).",
+      "Tipo de impacto": "Directo"
+    },
+    {
+      "ID Práctica": "PC-03",
+      "Nombre de la práctica": "Agricultura tradicional",
+      "Num. ODS": "ODS 2",
+      "Nombre ODS": "Hambre cero",
+      "Nivel de vínculo": "Medio",
+      "Dimensión del vínculo": "Alimentaria",
+      "Descripción del vínculo": "El coco, la guanábana y otros frutales proveen alimento tanto para autoconsumo como para comercialización. La elaboración de aceite de coco amplía el aprovechamiento del recurso.",
+      "Evidencia / fuente": "Producción de 500-600 cocos cada 2 meses por familia; guanábana en julio.",
+      "Tipo de impacto": "Directo"
+    },
+    {
+      "ID Práctica": "PC-03",
+      "Nombre de la práctica": "Agricultura tradicional",
+      "Num. ODS": "ODS 5",
+      "Nombre ODS": "Igualdad de género",
+      "Nivel de vínculo": "Medio",
+      "Dimensión del vínculo": "Social",
+      "Descripción del vínculo": "Las mujeres representan 12 de los 59 socios de la SPR. Participan activamente en el cultivo y en el despulpe de frutales. El trabajo es reconocido como actividad familiar compartida.",
+      "Evidencia / fuente": "Testimonio: 'mujeres somos 12 de 59' (portadora); trabajo familiar con hijos e hijas.",
+      "Tipo de impacto": "Indirecto"
+    },
+    {
+      "ID Práctica": "PC-03",
+      "Nombre de la práctica": "Agricultura tradicional",
+      "Num. ODS": "ODS 8",
+      "Nombre ODS": "Trabajo decente y crecimiento económico",
+      "Nivel de vínculo": "Medio",
+      "Dimensión del vínculo": "Laboral",
+      "Descripción del vínculo": "La SPR genera estructura organizacional que permite acceder a programas gubernamentales (ENI, Sembrando Vida) y aspirar a canales de comercialización más justos.",
+      "Evidencia / fuente": "SPR con 59 productores; inicio de facturación a través de la CPR.",
+      "Tipo de impacto": "Indirecto"
+    },
+    {
+      "ID Práctica": "PC-03",
+      "Nombre de la práctica": "Agricultura tradicional",
+      "Num. ODS": "ODS 15",
+      "Nombre ODS": "Vida de ecosistemas terrestres",
+      "Nivel de vínculo": "Medio",
+      "Dimensión del vínculo": "Ambiental",
+      "Descripción del vínculo": "Los cocotales representan un uso de suelo que contribuye a la cobertura vegetal costera. La siembra en ciclos lunares y el uso de compost reflejan una relación cuidadosa con el suelo.",
+      "Evidencia / fuente": "Uso de compost familiar (hojas de coco, hojas de cocoíte); siembra en cuarto menguante.",
+      "Tipo de impacto": "Indirecto"
+    },
+    {
+      "ID Práctica": "PC-04",
+      "Nombre de la práctica": "Artesanía",
+      "Num. ODS": "ODS 8",
+      "Nombre ODS": "Trabajo decente y crecimiento económico",
+      "Nivel de vínculo": "Medio",
+      "Dimensión del vínculo": "Laboral",
+      "Descripción del vínculo": "La artesanía genera un ingreso complementario para el artesano y su sobrina. La producción es bajo demanda y sin canales formales de comercialización.",
+      "Evidencia / fuente": "Encargos de Cebeta 100, Universidad Tecnológica de la Venta, familias locales.",
+      "Tipo de impacto": "Directo"
+    },
+    {
+      "ID Práctica": "PC-04",
+      "Nombre de la práctica": "Artesanía",
+      "Num. ODS": "ODS 11",
+      "Nombre ODS": "Ciudades y comunidades sostenibles",
+      "Nivel de vínculo": "Medio",
+      "Dimensión del vínculo": "Cultural",
+      "Descripción del vínculo": "La artesanía contribuye al embellecimiento de espacios públicos (carros alegóricos, desfiles) y refuerza la identidad cultural de la comunidad en eventos cívicos y religiosos.",
+      "Evidencia / fuente": "Participación en Fiesta de Santa Ana con carro alegórico; figuras para el Cebeta.",
+      "Tipo de impacto": "Directo"
+    },
+    {
+      "ID Práctica": "PC-04",
+      "Nombre de la práctica": "Artesanía",
+      "Num. ODS": "ODS 12",
+      "Nombre ODS": "Producción y consumo responsables",
+      "Nivel de vínculo": "Alto",
+      "Dimensión del vínculo": "Ambiental",
+      "Descripción del vínculo": "La artesanía local se distingue por el uso exclusivo de materiales reciclados (cartón, periódico, discos CD, escamas de pescado) y naturales (fibra de coco, hojas de joloche), sin generar residuos adicionales.",
+      "Evidencia / fuente": "Testimonio: 'Es mi trabajo, puro reciclable' (artesano Francisco Ventura Castillo).",
+      "Tipo de impacto": "Directo"
+    },
+    {
+      "ID Práctica": "PC-04",
+      "Nombre de la práctica": "Artesanía",
+      "Num. ODS": "ODS 4",
+      "Nombre ODS": "Educación de calidad",
+      "Nivel de vínculo": "Medio",
+      "Dimensión del vínculo": "Social",
+      "Descripción del vínculo": "El artesano ha propuesto talleres para adultos mayores y escolares. Ha trabajado con escuelas secundarias y universidades locales en proyectos de arte aplicado.",
+      "Evidencia / fuente": "Encargos del Cebeta 100 y la Universidad Tecnológica; proyecto rechazado en Casa de la Cultura.",
+      "Tipo de impacto": "Indirecto"
+    },
+    {
+      "ID Práctica": "PC-05",
+      "Nombre de la práctica": "Cocina tradicional",
+      "Num. ODS": "ODS 1",
+      "Nombre ODS": "Fin de la pobreza",
+      "Nivel de vínculo": "Alto",
+      "Dimensión del vínculo": "Económica",
+      "Descripción del vínculo": "La cocina es la principal fuente de ingreso para las portadoras mujeres. Los restaurantes y puestos de comida son negocios familiares sostenidos por décadas.",
+      "Evidencia / fuente": "Restaurante familiar con más de 50 años; La Lapa (mirador); puesto de antojitos.",
+      "Tipo de impacto": "Directo"
+    },
+    {
+      "ID Práctica": "PC-05",
+      "Nombre de la práctica": "Cocina tradicional",
+      "Num. ODS": "ODS 2",
+      "Nombre ODS": "Hambre cero",
+      "Nivel de vínculo": "Alto",
+      "Dimensión del vínculo": "Alimentaria",
+      "Descripción del vínculo": "La cocina tradicional garantiza el aprovechamiento de los recursos lagunares frescos (ostión, camarón, robalo) en preparaciones accesibles para la comunidad y los visitantes.",
+      "Evidencia / fuente": "Uso de productos locales frescos; primer exposición gastronómica en Semana Santa.",
+      "Tipo de impacto": "Directo"
+    },
+    {
+      "ID Práctica": "PC-05",
+      "Nombre de la práctica": "Cocina tradicional",
+      "Num. ODS": "ODS 5",
+      "Nombre ODS": "Igualdad de género",
+      "Nivel de vínculo": "Alto",
+      "Dimensión del vínculo": "Social",
+      "Descripción del vínculo": "La cocina es práctica predominantemente femenina. Las portadoras son cabeza de negocio y trasmisoras del conocimiento culinario. Su trabajo es fuente de autonomía económica.",
+      "Evidencia / fuente": "Testimonio: portadoras mujeres como propietarias y gestoras de los negocios; transmisión matrilineal.",
+      "Tipo de impacto": "Directo"
+    },
+    {
+      "ID Práctica": "PC-05",
+      "Nombre de la práctica": "Cocina tradicional",
+      "Num. ODS": "ODS 8",
+      "Nombre ODS": "Trabajo decente y crecimiento económico",
+      "Nivel de vínculo": "Medio",
+      "Dimensión del vínculo": "Laboral",
+      "Descripción del vínculo": "Los establecimientos de comida generan empleo familiar y local. La primera exposición gastronómica abrió un nuevo canal de ingresos y visibilización.",
+      "Evidencia / fuente": "Primer exposición gastronómica en Semana Santa; establecimientos con 20-50 años de operación.",
+      "Tipo de impacto": "Directo"
+    },
+    {
+      "ID Práctica": "PC-05",
+      "Nombre de la práctica": "Cocina tradicional",
+      "Num. ODS": "ODS 11",
+      "Nombre ODS": "Ciudades y comunidades sostenibles",
+      "Nivel de vínculo": "Medio",
+      "Dimensión del vínculo": "Cultural",
+      "Descripción del vínculo": "La cocina tradicional es un elemento de identidad comunitaria que atrae visitantes y puede sostener un turismo gastronómico local.",
+      "Evidencia / fuente": "Vinculación con UNESCO; primera exposición gastronómica.",
+      "Tipo de impacto": "Directo"
+    },
+    {
+      "ID Práctica": "PC-06",
+      "Nombre de la práctica": "Medicina tradicional",
+      "Num. ODS": "ODS 3",
+      "Nombre ODS": "Salud y bienestar",
+      "Nivel de vínculo": "Alto",
+      "Dimensión del vínculo": "Social",
+      "Descripción del vínculo": "La medicina tradicional complementa al sistema de salud formal, atendiendo condiciones pediátricas y reproductivas que la medicina alópata no siempre resuelve (empache, cuajo, palagueo).",
+      "Evidencia / fuente": "Testimonio: 'los llevan a los doctores y no les encuentran enfermedad' (portadora); pacientes de Cancún, Sinaloa, San Ramón.",
+      "Tipo de impacto": "Directo"
+    },
+    {
+      "ID Práctica": "PC-06",
+      "Nombre de la práctica": "Medicina tradicional",
+      "Num. ODS": "ODS 10",
+      "Nombre ODS": "Reducción de las desigualdades",
+      "Nivel de vínculo": "Alto",
+      "Dimensión del vínculo": "Social",
+      "Descripción del vínculo": "La curandera ofrece sus servicios sin tarifa fija ('lo que me quieran dar'), lo que garantiza acceso a personas de bajo ingreso que no pueden pagar atención médica privada.",
+      "Evidencia / fuente": "Testimonio: 'Yo no tengo una cuota fija. Lo que me quieran dar' (portadora).",
+      "Tipo de impacto": "Directo"
+    },
+    {
+      "ID Práctica": "PC-06",
+      "Nombre de la práctica": "Medicina tradicional",
+      "Num. ODS": "ODS 4",
+      "Nombre ODS": "Educación de calidad",
+      "Nivel de vínculo": "Medio",
+      "Dimensión del vínculo": "Cultural",
+      "Descripción del vínculo": "El conocimiento de medicina tradicional es un patrimonio cognitivo de alto valor que requiere documentación y transmisión sistemática para no perderse.",
+      "Evidencia / fuente": "Falta de documentación señalada como debilidad crítica; ausencia de registro formal de saberes.",
+      "Tipo de impacto": "Indirecto"
+    },
+    {
+      "ID Práctica": "PC-06",
+      "Nombre de la práctica": "Medicina tradicional",
+      "Num. ODS": "ODS 15",
+      "Nombre ODS": "Vida de ecosistemas terrestres",
+      "Nivel de vínculo": "Medio",
+      "Dimensión del vínculo": "Ambiental",
+      "Descripción del vínculo": "La medicina tradicional depende de plantas medicinales del entorno, cuya disponibilidad está amenazada por la contaminación. Preservar esta práctica incentiva la conservación de plantas medicinales locales.",
+      "Evidencia / fuente": "Mencionada pérdida de disponibilidad de plantas por contaminación; adquisición en farmacias como sustituto.",
+      "Tipo de impacto": "Indirecto"
+    },
+    {
+      "ID Práctica": "PC-07",
+      "Nombre de la práctica": "Música y danza",
+      "Num. ODS": "ODS 4",
+      "Nombre ODS": "Educación de calidad",
+      "Nivel de vínculo": "Alto",
+      "Dimensión del vínculo": "Cultural",
+      "Descripción del vínculo": "La maestra Silvia de la Cruz ha impartido 30 años de educación artística en la secundaria y el bachillerato, formando a generaciones de jóvenes en música, danza y artes.",
+      "Evidencia / fuente": "30 años como maestra de español y educación artística en secundaria técnica 30 y Colegio de Bachilleres.",
+      "Tipo de impacto": "Directo"
+    },
+    {
+      "ID Práctica": "PC-07",
+      "Nombre de la práctica": "Música y danza",
+      "Num. ODS": "ODS 10",
+      "Nombre ODS": "Reducción de las desigualdades",
+      "Nivel de vínculo": "Medio",
+      "Dimensión del vínculo": "Social",
+      "Descripción del vínculo": "La música y la danza son espacios de participación para jóvenes de todas las condiciones socioeconómicas. El concurso La Voz del Pueblo abre oportunidades de visibilización para el talento local.",
+      "Evidencia / fuente": "Concurso La Voz del Pueblo; participación de jóvenes en el ballet folklórico.",
+      "Tipo de impacto": "Indirecto"
+    },
+    {
+      "ID Práctica": "PC-07",
+      "Nombre de la práctica": "Música y danza",
+      "Num. ODS": "ODS 11",
+      "Nombre ODS": "Ciudades y comunidades sostenibles",
+      "Nivel de vínculo": "Alto",
+      "Dimensión del vínculo": "Cultural",
+      "Descripción del vínculo": "El ballet folklórico y el concurso La Voz del Pueblo son expresiones culturales que fortalecen la identidad comunitaria y proyectan a Sánchez Magallanes a nivel regional e internacional.",
+      "Evidencia / fuente": "Proyección nacional e internacional del ballet; participación en feria de Villahermosa.",
+      "Tipo de impacto": "Directo"
+    },
+    {
+      "ID Práctica": "PC-07",
+      "Nombre de la práctica": "Música y danza",
+      "Num. ODS": "ODS 5",
+      "Nombre ODS": "Igualdad de género",
+      "Nivel de vínculo": "Medio",
+      "Dimensión del vínculo": "Social",
+      "Descripción del vínculo": "La música y la danza incluyen jóvenes de ambos géneros. La maestra Silvia como portadora central visibiliza el liderazgo femenino en la cultura comunitaria.",
+      "Evidencia / fuente": "Maestra Silvia como figura central; jóvenes de ambos géneros en el ballet folklórico.",
+      "Tipo de impacto": "Indirecto"
+    },
+    {
+      "ID Práctica": "PC-07",
+      "Nombre de la práctica": "Música y danza",
+      "Num. ODS": "ODS 17",
+      "Nombre ODS": "Alianzas para lograr los objetivos",
+      "Nivel de vínculo": "Medio",
+      "Dimensión del vínculo": "Institucional",
+      "Descripción del vínculo": "La participación en eventos externos (feria de Villahermosa, concursos nacionales e internacionales) genera alianzas culturales e institucionales que fortalecen la práctica.",
+      "Evidencia / fuente": "Participación en feria de Villahermosa; eventos nacionales e internacionales.",
+      "Tipo de impacto": "Indirecto"
+    },
+    {
+      "ID Práctica": "PC-08",
+      "Nombre de la práctica": "Fiesta de Santa Ana",
+      "Num. ODS": "ODS 11",
+      "Nombre ODS": "Ciudades y comunidades sostenibles",
+      "Nivel de vínculo": "Alto",
+      "Dimensión del vínculo": "Cultural",
+      "Descripción del vínculo": "La Fiesta de Santa Ana, con más de 100 años de historia, es el evento de cohesión social más importante de la comunidad y el entorno. Convoca a todas las comunidades de la parroquia y genera identidad territorial.",
+      "Evidencia / fuente": "Más de 100 años de historia; 12 grupos parroquiales + 20 ermitas; convoca a creyentes y no creyentes.",
+      "Tipo de impacto": "Directo"
+    },
+    {
+      "ID Práctica": "PC-08",
+      "Nombre de la práctica": "Fiesta de Santa Ana",
+      "Num. ODS": "ODS 8",
+      "Nombre ODS": "Trabajo decente y crecimiento económico",
+      "Nivel de vínculo": "Medio",
+      "Dimensión del vínculo": "Económica",
+      "Descripción del vínculo": "La fiesta genera una derrama económica local significativa para comerciantes, restauranteros, artesanos y prestadores de servicios durante el período festivo.",
+      "Evidencia / fuente": "Derrama económica mencionada como logro en la Matriz FLOR; atracción turística documentada.",
+      "Tipo de impacto": "Directo"
+    },
+    {
+      "ID Práctica": "PC-08",
+      "Nombre de la práctica": "Fiesta de Santa Ana",
+      "Num. ODS": "ODS 10",
+      "Nombre ODS": "Reducción de las desigualdades",
+      "Nivel de vínculo": "Medio",
+      "Dimensión del vínculo": "Social",
+      "Descripción del vínculo": "La fiesta convoca a toda la comunidad independientemente de la adscripción religiosa, el origen o la condición socioeconómica. Es un espacio de encuentro transversal.",
+      "Evidencia / fuente": "Testimonio: 'convoca a la comunidad independientemente de la adscripción religiosa' (Matriz FLOR).",
+      "Tipo de impacto": "Directo"
+    },
+    {
+      "ID Práctica": "PC-08",
+      "Nombre de la práctica": "Fiesta de Santa Ana",
+      "Num. ODS": "ODS 4",
+      "Nombre ODS": "Educación de calidad",
+      "Nivel de vínculo": "Medio",
+      "Dimensión del vínculo": "Cultural",
+      "Descripción del vínculo": "Los niños y jóvenes participan en la enrama infantil, la catequesis y el ballet, lo que asegura la transmisión de los valores y tradiciones de la comunidad a las nuevas generaciones.",
+      "Evidencia / fuente": "Enrama infantil; catequesis vinculada a la festividad; jóvenes en el ballet.",
+      "Tipo de impacto": "Directo"
+    },
+    {
+      "ID Práctica": "PC-08",
+      "Nombre de la práctica": "Fiesta de Santa Ana",
+      "Num. ODS": "ODS 16",
+      "Nombre ODS": "Paz, justicia e instituciones sólidas",
+      "Nivel de vínculo": "Medio",
+      "Dimensión del vínculo": "Institucional",
+      "Descripción del vínculo": "La organización de la fiesta a través de grupos parroquiales, ermitas y estructuras de coordinación es un ejemplo de gobernanza comunitaria autogestionada y participativa.",
+      "Evidencia / fuente": "12 grupos parroquiales; red de 20 ermitas; estructura de cargos (colectoras, lectores, adoración nocturna).",
+      "Tipo de impacto": "Indirecto"
+    },
+    {
+      "ID Práctica": "PC-08",
+      "Nombre de la práctica": "Fiesta de Santa Ana",
+      "Num. ODS": "ODS 17",
+      "Nombre ODS": "Alianzas para lograr los objetivos",
+      "Nivel de vínculo": "Medio",
+      "Dimensión del vínculo": "Cultural",
+      "Descripción del vínculo": "La fiesta articula alianzas con ballets de otros estados, municipio, parroquias vecinas y organizaciones comunitarias para su realización. Facebook como herramienta de convocatoria.",
+      "Evidencia / fuente": "Participación de ballets de otros estados; convocatoria por Facebook; apoyo municipal (seguridad).",
+      "Tipo de impacto": "Indirecto"
+    }
+  ],
+  "flor_enunciados": [
+    {
+      "id": "1",
+      "componente": "Fortaleza",
+      "categoria": "Conocimiento ecológico y técnico local",
+      "enunciado": "Los portadores poseen un conocimiento profundo del ecosistema, el territorio y las técnicas productivas o artísticas propias de su práctica, acumulado y perfeccionado a lo largo de generaciones.",
+      "observaciones": "En pesca y ostricultura: zonas de pesca, comportamiento de especies, mareas. En agricultura: manejo del suelo, plagas, fases lunares. En artesanía: técnicas de molde, armado y decoración. En cocina: recetas y preparaciones.",
+      "practicas_vinculadas": [
+        "PC-01",
+        "PC-02",
+        "PC-03",
+        "PC-04",
+        "PC-05",
+        "PC-06"
+      ]
+    },
+    {
+      "id": "2",
+      "componente": "Fortaleza",
+      "categoria": "Organización comunitaria y colectiva",
+      "enunciado": "Existe capacidad organizativa y de acción colectiva entre los portadores de las prácticas, expresada en cooperativas, SPR, estructuras parroquiales o redes informales de apoyo mutuo.",
+      "observaciones": "Cooperativas de pesca; granjas de ostión en grupos; SPR/CPR en agricultura (59 productores); grupos de danza y música; 12 grupos parroquiales y 20 ermitas en la Fiesta.",
+      "practicas_vinculadas": [
+        "PC-01",
+        "PC-02",
+        "PC-03",
+        "PC-07",
+        "PC-08"
+      ]
+    },
+    {
+      "id": "3",
+      "componente": "Fortaleza",
+      "categoria": "Transmisión intergeneracional activa",
+      "enunciado": "La transmisión del conocimiento se mantiene activa en el ámbito familiar y comunitario, principalmente a través de la observación y la práctica cotidiana.",
+      "observaciones": "Universal en las ocho prácticas, aunque con diferente intensidad. Más sólida en pesca, ostricultura y Fiesta de Santa Ana; más frágil en artesanía y medicina.",
+      "practicas_vinculadas": [
+        "PC-01",
+        "PC-02",
+        "PC-03",
+        "PC-04",
+        "PC-05",
+        "PC-06",
+        "PC-07",
+        "PC-08"
+      ]
+    },
+    {
+      "id": "4",
+      "componente": "Fortaleza",
+      "categoria": "Calidad y frescura de productos locales",
+      "enunciado": "La cercanía al sistema lagunar y marino garantiza el acceso a productos frescos y de alta calidad, que sustentan tanto la práctica productiva como la culinaria.",
+      "observaciones": "Reportada en pesca, ostricultura y cocina tradicional como ventaja competitiva frente a mercados externos.",
+      "practicas_vinculadas": [
+        "PC-01",
+        "PC-02",
+        "PC-05"
+      ]
+    },
+    {
+      "id": "5",
+      "componente": "Fortaleza",
+      "categoria": "Identidad cultural y arraigo territorial",
+      "enunciado": "Las prácticas se articulan con un fuerte sentido de identidad colectiva y pertenencia al territorio, que refuerza la cohesión social y la continuidad de los saberes.",
+      "observaciones": "Presente en todas las prácticas. Especialmente explícita en Fiesta de Santa Ana, pesca y medicina tradicional.",
+      "practicas_vinculadas": [
+        "PC-01",
+        "PC-02",
+        "PC-03",
+        "PC-04",
+        "PC-05",
+        "PC-06",
+        "PC-07",
+        "PC-08"
+      ]
+    },
+    {
+      "id": "6",
+      "componente": "Fortaleza",
+      "categoria": "Creatividad, innovación y adaptación",
+      "enunciado": "Los portadores han demostrado capacidad para innovar y adaptar sus prácticas ante cambios en el entorno, incorporando nuevas técnicas, materiales o formatos sin abandonar el núcleo tradicional.",
+      "observaciones": "Pesca: GPS y embarcaciones modernas. Ostricultura: canastas australianas, españolas y Nestier. Agricultura: drones, motobombas. Artesanía: nuevos diseños y materiales reciclados. Música: elaboración de vestuarios con materiales locales.",
+      "practicas_vinculadas": [
+        "PC-01",
+        "PC-02",
+        "PC-03",
+        "PC-04",
+        "PC-07"
+      ]
+    },
+    {
+      "id": "7",
+      "componente": "Fortaleza",
+      "categoria": "Cohesión social y función de encuentro comunitario",
+      "enunciado": "Las prácticas culturales funcionan como espacios de encuentro, convivencia y refuerzo de los lazos sociales entre distintos grupos de la comunidad, incluyendo creyentes y no creyentes, jóvenes y adultos.",
+      "observaciones": "Explícita en Fiesta de Santa Ana, música y danza y cocina tradicional. La fiesta convoca a la comunidad independientemente de la adscripción religiosa.",
+      "practicas_vinculadas": [
+        "PC-05",
+        "PC-07",
+        "PC-08"
+      ]
+    },
+    {
+      "id": "8",
+      "componente": "Fortaleza",
+      "categoria": "Reconocimiento comunitario e institucional",
+      "enunciado": "Las prácticas y sus portadores cuentan con reconocimiento social local y, en algunos casos, institucional, lo que refuerza su legitimidad y continuidad.",
+      "observaciones": "Pesca: cooperativas reconocidas. Artesanía: encargos de instituciones educativas. Cocina: vinculación con UNESCO. Fiesta: permanencia histórica de más de 100 años.",
+      "practicas_vinculadas": [
+        "PC-01",
+        "PC-04",
+        "PC-05"
+      ]
+    },
+    {
+      "id": "9",
+      "componente": "Logro",
+      "categoria": "Sustento económico familiar de largo plazo",
+      "enunciado": "Las prácticas productivas han permitido a las familias cubrir sus necesidades básicas (alimentación, vivienda, vestido) y mantener una calidad de vida aceptable durante décadas.",
+      "observaciones": "Reportado explícitamente en pesca, ostricultura, agricultura y cocina tradicional como principal logro económico colectivo.",
+      "practicas_vinculadas": [
+        "PC-01",
+        "PC-02",
+        "PC-03",
+        "PC-05"
+      ]
+    },
+    {
+      "id": "10",
+      "componente": "Logro",
+      "categoria": "Continuidad y permanencia de la práctica a lo largo del tiempo",
+      "enunciado": "Las prácticas se han mantenido vigentes a lo largo de muchas generaciones, lo que constituye en sí mismo un logro de continuidad cultural frente a presiones externas.",
+      "observaciones": "Universal. La Fiesta de Santa Ana acumula más de 100 años de historia documentada; pesca y ostricultura sostienen la economía local desde antes de la memoria viva.",
+      "practicas_vinculadas": [
+        "PC-01",
+        "PC-02",
+        "PC-03",
+        "PC-04",
+        "PC-05",
+        "PC-06",
+        "PC-07",
+        "PC-08"
+      ]
+    },
+    {
+      "id": "11",
+      "componente": "Logro",
+      "categoria": "Reconocimiento externo y visibilidad",
+      "enunciado": "Algunas prácticas han alcanzado reconocimiento fuera de la comunidad, ya sea a nivel regional, nacional o internacional, lo que amplía su visibilidad y potencial.",
+      "observaciones": "Ostricultura: segunda productora nacional; exportación a otros estados. Cocina: vinculación con UNESCO. Música y danza: proyección nacional e internacional del ballet folklórico. Fiesta: derrama económica y atracción turística.",
+      "practicas_vinculadas": [
+        "PC-02",
+        "PC-05",
+        "PC-07",
+        "PC-08"
+      ]
+    },
+    {
+      "id": "12",
+      "componente": "Logro",
+      "categoria": "Adopción de innovaciones técnicas con impacto productivo",
+      "enunciado": "Los portadores han incorporado con éxito innovaciones técnicas (tecnológicas, de manejo o de proceso) que han mejorado la productividad, la calidad o la seguridad de la práctica.",
+      "observaciones": "Pesca: GPS, embarcaciones modernas, videosondas. Ostricultura: transición de sartas a canastas; uso de salómetro. Agricultura: drones para rociado, motobombas.",
+      "practicas_vinculadas": [
+        "PC-01",
+        "PC-02",
+        "PC-03"
+      ]
+    },
+    {
+      "id": "13",
+      "componente": "Logro",
+      "categoria": "Infraestructura comunitaria construida",
+      "enunciado": "Se han concretado obras o instalaciones comunitarias asociadas a la práctica, como el muelle pesquero, el templo de Santa Ana u otras estructuras de soporte.",
+      "observaciones": "Pesca: construcción del muelle pesquero. Fiesta de Santa Ana: construcción del templo y restauración permanente de la imagen original y su réplica.",
+      "practicas_vinculadas": [
+        "PC-01",
+        "PC-08"
+      ]
+    },
+    {
+      "id": "14",
+      "componente": "Logro",
+      "categoria": "Espacios y eventos culturales creados o fortalecidos",
+      "enunciado": "Se han generado eventos, exposiciones o encuentros culturales que visibilizan las prácticas y fortalecen la cohesión comunitaria.",
+      "observaciones": "Cocina: 1er exposición gastronómica en Semana Santa. Música y danza: concurso La Voz del Pueblo, feria de Villahermosa. Fiesta: kermeses, festivales y ballets de otros estados.",
+      "practicas_vinculadas": [
+        "PC-05",
+        "PC-07",
+        "PC-08"
+      ]
+    },
+    {
+      "id": "15",
+      "componente": "Logro",
+      "categoria": "Participación de jóvenes en la práctica",
+      "enunciado": "Se ha logrado incorporar a jóvenes y niños en las prácticas, ya sea productivas o culturales, como señal de continuidad generacional.",
+      "observaciones": "Música y danza: jóvenes en el ballet folklórico, incluyendo hijos de bailarines. Fiesta de Santa Ana: enrama infantil y participación de niños en catequesis vinculada a la festividad.",
+      "practicas_vinculadas": [
+        "PC-07",
+        "PC-08"
+      ]
+    },
+    {
+      "id": "16",
+      "componente": "Oportunidad",
+      "categoria": "Turismo cultural y gastronómico",
+      "enunciado": "Las prácticas culturales y productivas representan un potencial turístico no explotado, que podría generar ingresos complementarios y visibilizar el patrimonio de la comunidad.",
+      "observaciones": "Mencionada en casi todos los cuadernos. Agricultura: ruta de cocotales. Pesca y ostricultura: turismo de experiencia. Artesanía: desfiles y exposiciones. Música: presentaciones. Fiesta: derrama económica ya existente.",
+      "practicas_vinculadas": [
+        "PC-01",
+        "PC-02",
+        "PC-03",
+        "PC-04",
+        "PC-05",
+        "PC-07",
+        "PC-08"
+      ]
+    },
+    {
+      "id": "17",
+      "componente": "Oportunidad",
+      "categoria": "Vinculación con instituciones académicas y organismos externos",
+      "enunciado": "Existe potencial para establecer o fortalecer vínculos con universidades, organismos como UNESCO y programas de gobierno que apoyen la innovación, la documentación y la valorización.",
+      "observaciones": "Agricultura y ostricultura: acercamientos con universidades para valor agregado. Cocina: vinculación con UNESCO como logro convertible en oportunidad. Pesca: demanda de estudios de impacto ambiental.",
+      "practicas_vinculadas": [
+        "PC-01",
+        "PC-02",
+        "PC-03",
+        "PC-05"
+      ]
+    },
+    {
+      "id": "18",
+      "componente": "Oportunidad",
+      "categoria": "Diversificación productiva y de ingresos",
+      "enunciado": "La diversificación de actividades y productos (agrícolas, acuícolas, artesanales o culinarios) abre oportunidades para reducir vulnerabilidades económicas y aprovechar recursos locales subutilizados.",
+      "observaciones": "Agricultura: guanábana, frutales, coco diamantado, aceite de coco. Ostricultura: valor agregado, exportación. Pesca: captura de otras especies en temporada baja. Artesanía: nuevos productos y formatos.",
+      "practicas_vinculadas": [
+        "PC-01",
+        "PC-02",
+        "PC-03",
+        "PC-04",
+        "PC-05"
+      ]
+    },
+    {
+      "id": "19",
+      "componente": "Oportunidad",
+      "categoria": "Aprovechamiento de recursos naturales locales",
+      "enunciado": "La riqueza del entorno costero-lagunar (especies, plantas, materiales) representa un recurso subutilizado con potencial para sustentar tanto prácticas productivas como expresiones culturales.",
+      "observaciones": "Común en las prácticas productivas y en artesanía (materiales reciclados y naturales: coco, escamas, hojas de joloche). Medicina: plantas medicinales como recurso estratégico.",
+      "practicas_vinculadas": [
+        "PC-01",
+        "PC-02",
+        "PC-03",
+        "PC-04",
+        "PC-05",
+        "PC-06"
+      ]
+    },
+    {
+      "id": "20",
+      "componente": "Oportunidad",
+      "categoria": "Fortalecimiento organizacional y de gobernanza",
+      "enunciado": "Existen condiciones para fortalecer las estructuras organizativas existentes y crear nuevas figuras de representación que mejoren la gestión colectiva y la interlocución con autoridades.",
+      "observaciones": "Pesca: cooperativas a fortalecer; comités ciudadanos. Ostricultura: planes de manejo comunitario. Agricultura: SPR con reglas claras. Medicina: organización para exigir medidas ambientales. Fiesta: red de ermitas ya activa.",
+      "practicas_vinculadas": [
+        "PC-01",
+        "PC-02",
+        "PC-03",
+        "PC-06",
+        "PC-08"
+      ]
+    },
+    {
+      "id": "21",
+      "componente": "Oportunidad",
+      "categoria": "Difusión y comunicación digital",
+      "enunciado": "Las redes sociales y medios digitales representan una oportunidad para promover las prácticas, ampliar la convocatoria de eventos y fortalecer el reconocimiento externo.",
+      "observaciones": "Artesanía: propuesta de plataformas digitales. Música y danza: redes sociales para talento local. Cocina: medios de comunicación para visibilización. Fiesta: Facebook ya utilizado para convocatoria.",
+      "practicas_vinculadas": [
+        "PC-04",
+        "PC-05",
+        "PC-07",
+        "PC-08"
+      ]
+    },
+    {
+      "id": "22",
+      "componente": "Reto",
+      "categoria": "Relevo generacional e interés de los jóvenes",
+      "enunciado": "La falta de interés de las nuevas generaciones en aprender y continuar las prácticas constituye uno de los retos más urgentes, amenazando la continuidad cultural a mediano plazo.",
+      "observaciones": "Reportado en pesca (jóvenes que prefieren otras actividades), artesanía (pocos aprendices), cocina (interés desigual), medicina (desinterés parcial de nuevas generaciones), agricultura (migración a otras actividades) y música (falta de relevo en algunos géneros).",
+      "practicas_vinculadas": [
+        "PC-01",
+        "PC-03",
+        "PC-04",
+        "PC-05",
+        "PC-06",
+        "PC-07"
+      ]
+    },
+    {
+      "id": "23",
+      "componente": "Reto",
+      "categoria": "Ausencia de canales de comercialización justos",
+      "enunciado": "La dependencia de intermediarios ('coyotes') y la falta de precios justos y compradores estables limitan los ingresos de los portadores y comprometen la viabilidad económica de las prácticas.",
+      "observaciones": "Central en pesca, ostricultura y agricultura. Se señala la necesidad de acuerdos directos, precios mínimos garantizados y canales cortos de comercialización.",
+      "practicas_vinculadas": [
+        "PC-01",
+        "PC-02",
+        "PC-03"
+      ]
+    },
+    {
+      "id": "24",
+      "componente": "Reto",
+      "categoria": "Acceso insuficiente a apoyos institucionales y recursos",
+      "enunciado": "Los apoyos gubernamentales y de instituciones externas son irregulares, insuficientes o están condicionados a criterios que no responden a las necesidades reales de los portadores.",
+      "observaciones": "Pesca: Bienpesca con alcance limitado. Agricultura: programas que no siempre llegan a tiempo. Artesanía: Casa de la Cultura inaccesible. Música y danza: falta de espacios y presupuesto.",
+      "practicas_vinculadas": [
+        "PC-01",
+        "PC-02",
+        "PC-03",
+        "PC-04",
+        "PC-07"
+      ]
+    },
+    {
+      "id": "25",
+      "componente": "Reto",
+      "categoria": "Falta de espacios formales para la enseñanza y la transmisión",
+      "enunciado": "La ausencia de espacios físicos o institucionales para la enseñanza, el ensayo, la producción y la exhibición limita la transmisión y el desarrollo de las prácticas culturales.",
+      "observaciones": "Artesanía: Casa de la Cultura inaccesible. Música y danza: sin espacio de ensayo, sin aulas de música. Cocina: talleres inexistentes o sin estructura.",
+      "practicas_vinculadas": [
+        "PC-04",
+        "PC-05",
+        "PC-07"
+      ]
+    },
+    {
+      "id": "26",
+      "componente": "Reto",
+      "categoria": "Contaminación ambiental y deterioro del ecosistema",
+      "enunciado": "La contaminación del sistema lagunar-marino por ingenios, petroquímica, ganadería y residuos comunitarios representa un reto central que afecta directamente la producción y los recursos vinculados a las prácticas.",
+      "observaciones": "Señalado como reto urgente en pesca, ostricultura y medicina tradicional. Limita la reproducción de especies, la disponibilidad de plantas medicinales y la calidad del agua.",
+      "practicas_vinculadas": [
+        "PC-01",
+        "PC-02",
+        "PC-06"
+      ]
+    },
+    {
+      "id": "27",
+      "componente": "Reto",
+      "categoria": "Inseguridad pública y robo de materiales o productos",
+      "enunciado": "La inseguridad pública afecta el desarrollo de las prácticas, desde el robo de cosechas, equipos o productos, hasta la necesidad de ajustar horarios y recorridos en actividades festivas.",
+      "observaciones": "Agricultura: robo de cosechas sin mecanismos efectivos de control. Fiesta de Santa Ana: ajuste de horarios de recorridos nocturnos por condiciones de inseguridad.",
+      "practicas_vinculadas": [
+        "PC-03",
+        "PC-08"
+      ]
+    },
+    {
+      "id": "28",
+      "componente": "Reto",
+      "categoria": "Baja valoración económica del trabajo cultural y artesanal",
+      "enunciado": "El trabajo de los portadores culturales (artesanos, músicos, cocineras) no recibe una retribución económica justa ni reconocimiento institucional proporcional a su valor patrimonial.",
+      "observaciones": "Artesanía: preferencia por trabajo externo sobre el local. Cocina: ingresos insuficientes. Música y danza: actuaciones sin remuneración o con retribuciones mínimas.",
+      "practicas_vinculadas": [
+        "PC-04",
+        "PC-05",
+        "PC-07"
+      ]
+    },
+    {
+      "id": "29",
+      "componente": "Debilidad",
+      "categoria": "Escaso número de portadores activos",
+      "enunciado": "Las prácticas son sostenidas por un número reducido de portadores, lo que genera fragilidad estructural ante la pérdida o salida de cualquiera de ellos.",
+      "observaciones": "Artesanía: prácticamente un solo maestro artesano (Francisco Ventura Castillo). Medicina tradicional: pocas parteras y curanderas activas con conocimiento completo.",
+      "practicas_vinculadas": [
+        "PC-04",
+        "PC-06"
+      ]
+    },
+    {
+      "id": "30",
+      "componente": "Debilidad",
+      "categoria": "Ausencia de registro y documentación de saberes",
+      "enunciado": "No existe un sistema de documentación formal de los conocimientos, técnicas, recetas o repertorios asociados a las prácticas, lo que aumenta el riesgo de pérdida irreversible.",
+      "observaciones": "Señalada como debilidad o necesidad urgente en agricultura, artesanía, cocina, medicina y música. Ninguna práctica cuenta con un registro sistemático operativo.",
+      "practicas_vinculadas": [
+        "PC-03",
+        "PC-04",
+        "PC-05",
+        "PC-06",
+        "PC-07"
+      ]
+    },
+    {
+      "id": "31",
+      "componente": "Debilidad",
+      "categoria": "Dependencia de insumos y recursos externos",
+      "enunciado": "Algunas prácticas han incrementado su dependencia de insumos externos (fertilizantes, semillas de laboratorio, materiales industriales) que encarecen la actividad y reducen la autonomía local.",
+      "observaciones": "Ostricultura: semillas de laboratorio y sistemas de cultivo externos. Agricultura: fertilizantes, cal y líquidos para rociado.",
+      "practicas_vinculadas": [
+        "PC-02",
+        "PC-03"
+      ]
+    },
+    {
+      "id": "32",
+      "componente": "Debilidad",
+      "categoria": "Debilitamiento de la práctica por presiones culturales externas",
+      "enunciado": "La influencia de modelos culturales externos (alimentación procesada, entretenimiento digital, medicina alópata) erosiona el interés y la valoración de las prácticas locales, especialmente entre los jóvenes.",
+      "observaciones": "Cocina: sustitución de ingredientes locales por procesados. Medicina: preferencia por medicina convencional en jóvenes. Música y danza: competencia con entretenimiento digital.",
+      "practicas_vinculadas": [
+        "PC-05",
+        "PC-06",
+        "PC-07"
+      ]
+    },
+    {
+      "id": "33",
+      "componente": "Debilidad",
+      "categoria": "Falta de mecanismos formales de coordinación y gobernanza interna",
+      "enunciado": "En algunas prácticas productivas y culturales, la ausencia de reglas claras para la coordinación interna genera conflictos, competencia desleal o dificultades para acceder a apoyos colectivamente.",
+      "observaciones": "Pesca: competencia entre pescadores; ausencia de gobernanza que regule el acceso. Agricultura: SPR con reglas internas poco claras.",
+      "practicas_vinculadas": [
+        "PC-01",
+        "PC-03"
+      ]
+    },
+    {
+      "id": "34",
+      "componente": "Debilidad",
+      "categoria": "Infraestructura insuficiente para conservación y manejo del producto",
+      "enunciado": "La falta de infraestructura de frío (hielo, cámaras de refrigeración, congeladores) limita la conservación del producto, aumenta las pérdidas postcaptura y debilita la posición de negociación.",
+      "observaciones": "Reportada en pesca y ostricultura. La ausencia de fábricas de hielo y cámaras de frío es señalada como una debilidad estructural recurrente.",
+      "practicas_vinculadas": [
+        "PC-01",
+        "PC-02"
+      ]
+    },
+    {
+      "id": "35",
+      "componente": "Amenaza",
+      "categoria": "Contaminación por actividades industriales y agropecuarias",
+      "enunciado": "La contaminación proveniente de ingenios azucareros, plataformas petroleras y empresas ganaderas amenaza directamente la reproducción de especies, la calidad del agua y la disponibilidad de recursos naturales vinculados a las prácticas.",
+      "observaciones": "La amenaza más transversal entre las prácticas productivas. Afecta pesca (reproducción de especies), ostricultura (calidad del agua), agricultura (suelo y fuentes de agua) y medicina (disponibilidad de plantas medicinales).",
+      "practicas_vinculadas": [
+        "PC-01",
+        "PC-02",
+        "PC-03",
+        "PC-06"
+      ]
+    },
+    {
+      "id": "36",
+      "componente": "Amenaza",
+      "categoria": "Intermediarismo y coyotaje en la cadena de valor",
+      "enunciado": "La presencia de intermediarios que fijan precios bajos a los productores y capturan el excedente de valor es una amenaza estructural para la viabilidad económica de las prácticas productivas.",
+      "observaciones": "Señalada explícitamente en pesca, ostricultura y agricultura. Los 'coyotes' son identificados como actores que limitan el ingreso de los portadores y generan dependencia.",
+      "practicas_vinculadas": [
+        "PC-01",
+        "PC-02",
+        "PC-03"
+      ]
+    },
+    {
+      "id": "37",
+      "componente": "Amenaza",
+      "categoria": "Sobreexplotación del recurso y competencia desleal",
+      "enunciado": "La sobrepoblación de pescadores y equipos en el mar, la extracción ilegal fuera de veda y la competencia desleal entre actores de la misma práctica amenazan la sostenibilidad del recurso.",
+      "observaciones": "Pesca: sobrepoblación de pescadores que baja el precio del pescado. Ostricultura: extracción ilegal en veda documentada.",
+      "practicas_vinculadas": [
+        "PC-01",
+        "PC-02"
+      ]
+    },
+    {
+      "id": "38",
+      "componente": "Amenaza",
+      "categoria": "Cambio climático y variabilidad ambiental",
+      "enunciado": "Sequías, temperaturas extremas, cambios en salinidad y lluvias irregulares afectan la productividad de las prácticas y la disponibilidad de recursos naturales asociados.",
+      "observaciones": "Agricultura: sequías y plagas más frecuentes. Ostricultura: aumento de salinidad y temperatura del agua. Pesca: cambios en comportamiento de especies. Medicina: deterioro de entornos donde crecen plantas medicinales.",
+      "practicas_vinculadas": [
+        "PC-01",
+        "PC-02",
+        "PC-03",
+        "PC-06"
+      ]
+    },
+    {
+      "id": "39",
+      "componente": "Amenaza",
+      "categoria": "Pérdida de biodiversidad y recursos naturales",
+      "enunciado": "La disminución de especies, plantas medicinales, recursos acuáticos y materiales naturales utilizados en las prácticas amenaza su viabilidad a largo plazo.",
+      "observaciones": "Pesca: disminución de especies capturadas. Ostricultura: reducción de bancos naturales. Artesanía: reducción de disponibilidad de materiales naturales locales. Medicina: escasez de plantas medicinales por deterioro ambiental.",
+      "practicas_vinculadas": [
+        "PC-01",
+        "PC-02",
+        "PC-04",
+        "PC-06"
+      ]
+    },
+    {
+      "id": "40",
+      "componente": "Amenaza",
+      "categoria": "Migración y abandono del territorio",
+      "enunciado": "La migración de jóvenes hacia centros urbanos en busca de empleo o estudio debilita la base social de las prácticas y reduce el número de posibles aprendices y portadores futuros.",
+      "observaciones": "Mencionada como factor de riesgo en pesca, agricultura, artesanía, cocina y medicina. La migración afecta la continuidad intergeneracional de las prácticas.",
+      "practicas_vinculadas": [
+        "PC-01",
+        "PC-03",
+        "PC-04",
+        "PC-05",
+        "PC-06"
+      ]
+    },
+    {
+      "id": "41",
+      "componente": "Amenaza",
+      "categoria": "Marco regulatorio inadecuado o aplicación inconsistente",
+      "enunciado": "La aplicación irregular de reglamentos de pesca, vedas y regulaciones ambientales, así como la corrupción en los mecanismos de control, limita la efectividad de las medidas de protección.",
+      "observaciones": "Pesca: cumplimiento parcial de vedas por presiones económicas y corrupción. Ostricultura: extracción ilegal durante veda pese a control de Marina.",
+      "practicas_vinculadas": [
+        "PC-01",
+        "PC-02"
+      ]
+    }
+  ]
+}

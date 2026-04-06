@@ -1,0 +1,850 @@
+[
+  {
+    "mes": "Enero",
+    "practica": "Artesanía",
+    "categoria": "Producción festiva",
+    "anillo": "A",
+    "n_actividades": 1,
+    "descripcion": "Alta demanda de piñatas para Día de Reyes (6 de enero). Elaboración de figuras de cartonería con cartón, alambre y periódico desechado. Diseños personalizados por encargo."
+  },
+  {
+    "mes": "Abril",
+    "practica": "Artesanía",
+    "categoria": "Producción festiva",
+    "anillo": "A",
+    "n_actividades": 1,
+    "descripcion": "Piñatas para Día del Niño (30 de abril). Temporada de adornos de primavera: figuras para triciclos y carros. Elaboración con materiales reciclados y fibra de coco."
+  },
+  {
+    "mes": "Julio",
+    "practica": "Artesanía",
+    "categoria": "Producción festiva",
+    "anillo": "A",
+    "n_actividades": 1,
+    "descripcion": "Decoración de lanchas para el paseo lagunar de Santa Ana (25 julio): figuras de garzas, pelícanos y gaviotas con cartón y manta tabasqueña, diferenciadas de la decoración tradicional con globos. Trajes estilizados con escamas de sábalo, fibra de coco y conchas para candidatas."
+  },
+  {
+    "mes": "Noviembre",
+    "practica": "Artesanía",
+    "categoria": "Producción festiva",
+    "anillo": "A",
+    "n_actividades": 1,
+    "descripcion": "Pico de producción para desfiles deportivos de noviembre: botargas, figuras de gran formato, camarones gigantes y gallos de cartonería. Inicio de producción navideña."
+  },
+  {
+    "mes": "Diciembre",
+    "practica": "Artesanía",
+    "categoria": "Producción festiva",
+    "anillo": "A",
+    "n_actividades": 1,
+    "descripcion": "Adorno anual de la imagen de la Virgen de Guadalupe con diseño distinto cada año (más de una década de continuidad). Producción navideña máxima: piñatas y figuras decorativas. Ajuste técnico en temporada húmeda: sustitución de engrudo por silicón para asegurar pegado."
+  },
+  {
+    "mes": "Enero",
+    "practica": "Fiestas",
+    "categoria": "Fiestas patronales y religiosas",
+    "anillo": "A",
+    "n_actividades": 1,
+    "descripcion": "Fiesta Patronal San Sebastian Ojoshal"
+  },
+  {
+    "mes": "Febrero",
+    "practica": "Fiestas",
+    "categoria": "Fiestas patronales y religiosas",
+    "anillo": "A",
+    "n_actividades": 3,
+    "descripcion": "Fiesta Patronal de Nuestra Señora de la Candearia; Aniversario de la ADONOMEX; Viacrucis"
+  },
+  {
+    "mes": "Marzo",
+    "practica": "Fiestas",
+    "categoria": "Fiestas patronales y religiosas",
+    "anillo": "A",
+    "n_actividades": 2,
+    "descripcion": "Fiesta Patronal de San José ; Celebración del Señor de los pescadores"
+  },
+  {
+    "mes": "Abril",
+    "practica": "Fiestas",
+    "categoria": "Fiestas patronales y religiosas",
+    "anillo": "A",
+    "n_actividades": 5,
+    "descripcion": "Busqueda de los oleos sagrados al seminario; Retiros de pascua; Ejercicios espirituales y procesión del silencio; Domingo de resurección; Señor de la Misericordia"
+  },
+  {
+    "mes": "Mayo",
+    "practica": "Fiestas",
+    "categoria": "Conmemoraciones y eventos",
+    "anillo": "A",
+    "n_actividades": 1,
+    "descripcion": "Celebración del Día de la Madre"
+  },
+  {
+    "mes": "Mayo",
+    "practica": "Fiestas",
+    "categoria": "Fiestas patronales y religiosas",
+    "anillo": "A",
+    "n_actividades": 3,
+    "descripcion": "Fiesta Patronal de la Santa Cruz; Vigilia de espigas; Fiesta Patronal del Señor de la Salud"
+  },
+  {
+    "mes": "Junio",
+    "practica": "Fiestas",
+    "categoria": "Conmemoraciones y eventos",
+    "anillo": "A",
+    "n_actividades": 1,
+    "descripcion": "Peregrinación de las Abuelitas de Santa Ana"
+  },
+  {
+    "mes": "Junio",
+    "practica": "Fiestas",
+    "categoria": "Fiestas patronales y religiosas",
+    "anillo": "A",
+    "n_actividades": 2,
+    "descripcion": "Fiesta Patronal de los Sagrados Corazones de Jesús y María; Visita de Corpus Cristi"
+  },
+  {
+    "mes": "Julio",
+    "practica": "Fiestas",
+    "categoria": "Fiestas patronales y religiosas",
+    "anillo": "A",
+    "n_actividades": 2,
+    "descripcion": "Fiesta Señora de Santa Ana; Celebración Virgen del Carmén"
+  },
+  {
+    "mes": "Agosto",
+    "practica": "Fiestas",
+    "categoria": "Fiestas patronales y religiosas",
+    "anillo": "A",
+    "n_actividades": 1,
+    "descripcion": "Fiesta Patronal de San Ramón Nonato"
+  },
+  {
+    "mes": "Septiembre",
+    "practica": "Fiestas",
+    "categoria": "Conmemoraciones y eventos",
+    "anillo": "A",
+    "n_actividades": 1,
+    "descripcion": "Celebración de Independencia"
+  },
+  {
+    "mes": "Septiembre",
+    "practica": "Fiestas",
+    "categoria": "Fiestas patronales y religiosas",
+    "anillo": "A",
+    "n_actividades": 2,
+    "descripcion": "Fiesta Patronal San Miguel Arcangel; Fiesta Patronal San Rafael Arcangel"
+  },
+  {
+    "mes": "Octubre",
+    "practica": "Fiestas",
+    "categoria": "Fiestas patronales y religiosas",
+    "anillo": "A",
+    "n_actividades": 4,
+    "descripcion": "Santa Teresita del Niño Jesús; Fiesta Patronal San Francisco de Asís; Misiones; Celebración de San Judas Tadeo"
+  },
+  {
+    "mes": "Noviembre",
+    "practica": "Fiestas",
+    "categoria": "Fiestas patronales y religiosas",
+    "anillo": "A",
+    "n_actividades": 4,
+    "descripcion": "Día de todos los santos; Fieles Difuntos; Fiesta de San Martín de Porres; Fiesta de Cristo Rey"
+  },
+  {
+    "mes": "Diciembre",
+    "practica": "Fiestas",
+    "categoria": "Conmemoraciones y eventos",
+    "anillo": "A",
+    "n_actividades": 2,
+    "descripcion": "Antorcha juvenil; Antorcha mixta"
+  },
+  {
+    "mes": "Diciembre",
+    "practica": "Fiestas",
+    "categoria": "Fiestas patronales y religiosas",
+    "anillo": "A",
+    "n_actividades": 8,
+    "descripcion": "Celebración de la Virgen de Guadalupe; Fiesta Patronal Ermita de Guadalupe; San Juan Diego Manatinero; Vigilia Patronal de Cuauhtemoczin; Posadas; Noche Buena; Navidad; Año viejo"
+  },
+  {
+    "mes": "Marzo",
+    "practica": "Música y danza",
+    "categoria": "Expresión ritual",
+    "anillo": "A",
+    "n_actividades": 1,
+    "descripcion": "Procesión en silencio del Viernes Santo con la Virgen de la Dolorosa acompañada por tambor. Uso ritual del sonido como marcador de solemnidad. Ballet de iglesia con presentación en espacios religiosos."
+  },
+  {
+    "mes": "Julio",
+    "practica": "Música y danza",
+    "categoria": "Expresión festiva",
+    "anillo": "A",
+    "n_actividades": 1,
+    "descripcion": "Máxima expresión durante la Feria de Santa Ana (17-26 julio): tamborileros y batucadas en el paseo por la laguna, himno a Santa Ana en peregrinaciones diarias, ballet de la iglesia con agrupaciones de Oaxaca, Chiapas y Coatzacoalcos."
+  },
+  {
+    "mes": "Noviembre",
+    "practica": "Música y danza",
+    "categoria": "Expresión cívica",
+    "anillo": "A",
+    "n_actividades": 1,
+    "descripcion": "Batucadas y grupos de danza folklórica en desfiles deportivos de noviembre. Festival Playero: grupos musicales y concursos culturales en el domo/parque. Ensayos continuos del grupo de tamborileros del COBATAB 17."
+  },
+  {
+    "mes": "Diciembre",
+    "practica": "Música y danza",
+    "categoria": "Expresión ritual",
+    "anillo": "A",
+    "n_actividades": 1,
+    "descripcion": "Cantos de posadas con guitarra y coro comunitario. Ballet en misa de Gallo. Cantos guadalupanos en procesión del 12 de diciembre. Grupos de danzón y salsa en fiestas de fin de año."
+  },
+  {
+    "mes": "Enero",
+    "practica": "Medicina tradicional",
+    "categoria": "Remedios estacionales",
+    "anillo": "B",
+    "n_actividades": 1,
+    "descripcion": "Atención a enfermedades respiratorias por temporada de nortes. Tés de orégano vaporú y maguey asado para gripe y pasmo. Purgas de inicio de año con aceite de ricino y plantas del huerto."
+  },
+  {
+    "mes": "Febrero",
+    "practica": "Medicina tradicional",
+    "categoria": "Remedios estacionales",
+    "anillo": "B",
+    "n_actividades": 1,
+    "descripcion": "Continuación de remedios para nortes. Tés de mangle colorado, guayaba y mulato para azúcar y grasa en hígado. Baños y ensalmos contra susto y malas vibras con hoja de viento y hoja de zorrillo."
+  },
+  {
+    "mes": "Abril",
+    "practica": "Medicina tradicional",
+    "categoria": "Recolección de plantas",
+    "anillo": "B",
+    "n_actividades": 1,
+    "descripcion": "Temporada seca: cosecha de plantas del huerto medicinal (ruda, romero, llantén, hierbabuena, toronjil, albahaca, maguey). Trasplante por gajos en vaso con agua hasta que desarrollen raíces."
+  },
+  {
+    "mes": "Junio",
+    "practica": "Medicina tradicional",
+    "categoria": "Recolección de plantas",
+    "anillo": "B",
+    "n_actividades": 1,
+    "descripcion": "Inicio de temporada húmeda: recolección de plantas asociadas al sistema del manglar y la laguna. Obtención de mangle colorado y palo mulato para tés medicinales."
+  },
+  {
+    "mes": "Agosto",
+    "practica": "Medicina tradicional",
+    "categoria": "Recolección de plantas",
+    "anillo": "B",
+    "n_actividades": 1,
+    "descripcion": "Plena temporada de lluvias: recolección intensiva de plantas silvestres del manglar y laguna. Preparación de jarabes, cataplasmas y baños con sangre de Cristo, omanís y riñonina."
+  },
+  {
+    "mes": "Noviembre",
+    "practica": "Medicina tradicional",
+    "categoria": "Remedios estacionales",
+    "anillo": "B",
+    "n_actividades": 1,
+    "descripcion": "Inicio de nortes: preparación de remedios respiratorios. Tés de zacate limón para relajación y sueño. Atención de parteras a mujeres en postparto con té de manzanilla para \"limpiar el útero\"."
+  },
+  {
+    "mes": "Enero",
+    "practica": "Ostricultura",
+    "categoria": "Mantenimiento y preparación",
+    "anillo": "B",
+    "n_actividades": 3,
+    "descripcion": "Mantenimiento y reparación de artes de pesca; Lavado de jaulas, embarcaciones y motores; Revisión y desinfección de equipos"
+  },
+  {
+    "mes": "Enero",
+    "practica": "Ostricultura",
+    "categoria": "Monitoreo ambiental",
+    "anillo": "B",
+    "n_actividades": 1,
+    "descripcion": "Presencia de cardúmenes grandes (tiburón blanco)"
+  },
+  {
+    "mes": "Enero",
+    "practica": "Ostricultura",
+    "categoria": "Pesca y captura",
+    "anillo": "B",
+    "n_actividades": 2,
+    "descripcion": "Pesca de especies de escama (robalo, mojarra, bagre, cazón); Uso de raqueta y redes agalleras"
+  },
+  {
+    "mes": "Febrero",
+    "practica": "Ostricultura",
+    "categoria": "Mantenimiento y preparación",
+    "anillo": "B",
+    "n_actividades": 3,
+    "descripcion": "Limpieza de artes de pesca; Reparación de motores fuera de borda; Conservación de producto salado o seco"
+  },
+  {
+    "mes": "Febrero",
+    "practica": "Ostricultura",
+    "categoria": "Monitoreo ambiental",
+    "anillo": "B",
+    "n_actividades": 1,
+    "descripcion": "Monitoreo del clima (frentes fríos)"
+  },
+  {
+    "mes": "Febrero",
+    "practica": "Ostricultura",
+    "categoria": "Pesca y captura",
+    "anillo": "B",
+    "n_actividades": 1,
+    "descripcion": "Captura de especies (cazón, mojarra, bagre)"
+  },
+  {
+    "mes": "Marzo",
+    "practica": "Ostricultura",
+    "categoria": "Mantenimiento y preparación",
+    "anillo": "B",
+    "n_actividades": 2,
+    "descripcion": "Mantenimiento de equipo; Preparación de redes y cabos"
+  },
+  {
+    "mes": "Marzo",
+    "practica": "Ostricultura",
+    "categoria": "Monitoreo ambiental",
+    "anillo": "B",
+    "n_actividades": 2,
+    "descripcion": "Disminución de captura por cambio de temperatura; Observación de signos de reproducción"
+  },
+  {
+    "mes": "Abril",
+    "practica": "Ostricultura",
+    "categoria": "Mantenimiento y preparación",
+    "anillo": "B",
+    "n_actividades": 1,
+    "descripcion": "Limpieza de zonas de fondeo"
+  },
+  {
+    "mes": "Abril",
+    "practica": "Ostricultura",
+    "categoria": "Monitoreo ambiental",
+    "anillo": "B",
+    "n_actividades": 2,
+    "descripcion": "Aumento de temperatura; Migración de especies costeras"
+  },
+  {
+    "mes": "Abril",
+    "practica": "Ostricultura",
+    "categoria": "Pesca y captura",
+    "anillo": "B",
+    "n_actividades": 1,
+    "descripcion": "Pesca moderada"
+  },
+  {
+    "mes": "Mayo",
+    "practica": "Ostricultura",
+    "categoria": "Cultivo y acuacultura",
+    "anillo": "B",
+    "n_actividades": 1,
+    "descripcion": "Observación de larvas de ostión y camarón"
+  },
+  {
+    "mes": "Mayo",
+    "practica": "Ostricultura",
+    "categoria": "Monitoreo ambiental",
+    "anillo": "B",
+    "n_actividades": 3,
+    "descripcion": "Inicio de temporada de lluvias; Aumento de turbidez del agua; Reducción de oxígeno disuelto"
+  },
+  {
+    "mes": "Mayo",
+    "practica": "Ostricultura",
+    "categoria": "Pesca y captura",
+    "anillo": "B",
+    "n_actividades": 1,
+    "descripcion": "Captura limitada"
+  },
+  {
+    "mes": "Junio",
+    "practica": "Ostricultura",
+    "categoria": "Cultivo y acuacultura",
+    "anillo": "B",
+    "n_actividades": 1,
+    "descripcion": "Revisión de colectores de semilla"
+  },
+  {
+    "mes": "Junio",
+    "practica": "Ostricultura",
+    "categoria": "Mantenimiento y preparación",
+    "anillo": "B",
+    "n_actividades": 1,
+    "descripcion": "Descanso de los bancos"
+  },
+  {
+    "mes": "Junio",
+    "practica": "Ostricultura",
+    "categoria": "Monitoreo ambiental",
+    "anillo": "B",
+    "n_actividades": 1,
+    "descripcion": "Inicio de época de reproducción"
+  },
+  {
+    "mes": "Junio",
+    "practica": "Ostricultura",
+    "categoria": "Pesca y captura",
+    "anillo": "B",
+    "n_actividades": 1,
+    "descripcion": "Disminución de pesca comercial"
+  },
+  {
+    "mes": "Julio",
+    "practica": "Ostricultura",
+    "categoria": "Cultivo y acuacultura",
+    "anillo": "B",
+    "n_actividades": 1,
+    "descripcion": "Disponibilidad de camarón y ostión juvenil"
+  },
+  {
+    "mes": "Julio",
+    "practica": "Ostricultura",
+    "categoria": "Mantenimiento y preparación",
+    "anillo": "B",
+    "n_actividades": 1,
+    "descripcion": "Limpieza de áreas de cultivo"
+  },
+  {
+    "mes": "Julio",
+    "practica": "Ostricultura",
+    "categoria": "Monitoreo ambiental",
+    "anillo": "B",
+    "n_actividades": 1,
+    "descripcion": "Buena productividad en lagunas"
+  },
+  {
+    "mes": "Agosto",
+    "practica": "Ostricultura",
+    "categoria": "Cultivo y acuacultura",
+    "anillo": "B",
+    "n_actividades": 1,
+    "descripcion": "Comienzo de la veda del ostión"
+  },
+  {
+    "mes": "Agosto",
+    "practica": "Ostricultura",
+    "categoria": "Mantenimiento y preparación",
+    "anillo": "B",
+    "n_actividades": 1,
+    "descripcion": "Revisión de embarcaciones"
+  },
+  {
+    "mes": "Agosto",
+    "practica": "Ostricultura",
+    "categoria": "Pesca y captura",
+    "anillo": "B",
+    "n_actividades": 1,
+    "descripcion": "Captura de escama (róbalo, mojarra, sierra)"
+  },
+  {
+    "mes": "Septiembre",
+    "practica": "Ostricultura",
+    "categoria": "Cultivo y acuacultura",
+    "anillo": "B",
+    "n_actividades": 1,
+    "descripcion": "Veda de ostión y camarón"
+  },
+  {
+    "mes": "Septiembre",
+    "practica": "Ostricultura",
+    "categoria": "Mantenimiento y preparación",
+    "anillo": "B",
+    "n_actividades": 2,
+    "descripcion": "Reparación de redes, boyas y varas; Descanso de los pescadores"
+  },
+  {
+    "mes": "Septiembre",
+    "practica": "Ostricultura",
+    "categoria": "Monitoreo ambiental",
+    "anillo": "B",
+    "n_actividades": 1,
+    "descripcion": "Temporada de lluvias intensas"
+  },
+  {
+    "mes": "Octubre",
+    "practica": "Ostricultura",
+    "categoria": "Mantenimiento y preparación",
+    "anillo": "B",
+    "n_actividades": 2,
+    "descripcion": "Reacomodo de equipos de pesca; Preparación para reiniciar la captura"
+  },
+  {
+    "mes": "Octubre",
+    "practica": "Ostricultura",
+    "categoria": "Monitoreo ambiental",
+    "anillo": "B",
+    "n_actividades": 1,
+    "descripcion": "Fin de temporada de lluvias"
+  },
+  {
+    "mes": "Noviembre",
+    "practica": "Ostricultura",
+    "categoria": "Cultivo y acuacultura",
+    "anillo": "B",
+    "n_actividades": 1,
+    "descripcion": "Autorización de pesca de ostión y camarón"
+  },
+  {
+    "mes": "Noviembre",
+    "practica": "Ostricultura",
+    "categoria": "Monitoreo ambiental",
+    "anillo": "B",
+    "n_actividades": 1,
+    "descripcion": "Monitoreo del agua"
+  },
+  {
+    "mes": "Noviembre",
+    "practica": "Ostricultura",
+    "categoria": "Pesca y captura",
+    "anillo": "B",
+    "n_actividades": 1,
+    "descripcion": "Incremento en captura de escama"
+  },
+  {
+    "mes": "Diciembre",
+    "practica": "Ostricultura",
+    "categoria": "Mantenimiento y preparación",
+    "anillo": "B",
+    "n_actividades": 2,
+    "descripcion": "Temporada de fiestas: mayor demanda del producto; Fin del ciclo anual"
+  },
+  {
+    "mes": "Diciembre",
+    "practica": "Ostricultura",
+    "categoria": "Pesca y captura",
+    "anillo": "B",
+    "n_actividades": 1,
+    "descripcion": "Alta actividad pesquera"
+  },
+  {
+    "mes": "Enero",
+    "practica": "Agricultura",
+    "categoria": "Cosecha y producción",
+    "anillo": "C",
+    "n_actividades": 1,
+    "descripcion": "Cosecha trimestral de coco (ciclo enero-abril-julio-octubre). Venta como coco tierno, pelado o himado. Trabajo familiar en cocotal."
+  },
+  {
+    "mes": "Marzo",
+    "practica": "Agricultura",
+    "categoria": "Manejo del cocotal",
+    "anillo": "C",
+    "n_actividades": 1,
+    "descripcion": "Control de grillo amarillo (plaga de época de calor). Rociado con motobomba. Aplicación de fertilizantes y líquidos nutritivos."
+  },
+  {
+    "mes": "Abril",
+    "practica": "Agricultura",
+    "categoria": "Cosecha y producción",
+    "anillo": "C",
+    "n_actividades": 1,
+    "descripcion": "Cosecha trimestral de coco. Ajuste de fecha según luna menguante o llena por indicación de compradores para evitar que \"se desangre la mata\"."
+  },
+  {
+    "mes": "Julio",
+    "practica": "Agricultura",
+    "categoria": "Cosecha y producción",
+    "anillo": "C",
+    "n_actividades": 1,
+    "descripcion": "Cosecha trimestral de coco. Cosecha de guanábana (primera producción del ciclo Sembrando Vida). Despulpe familiar y venta congelada por kilo."
+  },
+  {
+    "mes": "Septiembre",
+    "practica": "Agricultura",
+    "categoria": "Siembra y renovación",
+    "anillo": "C",
+    "n_actividades": 1,
+    "descripcion": "Siembra de nuevas palmas de coco en luna menguante, siguiendo la tradición enseñada por abuelos. Apertura de hoyos, cajete y composta de hojas de coco y cocoíte."
+  },
+  {
+    "mes": "Octubre",
+    "practica": "Agricultura",
+    "categoria": "Cosecha y producción",
+    "anillo": "C",
+    "n_actividades": 1,
+    "descripcion": "Cosecha trimestral de coco. Inicio de preparación del terreno para nueva siembra en septiembre-octubre."
+  },
+  {
+    "mes": "Marzo",
+    "practica": "Cocina tradicional",
+    "categoria": "Cocina festiva",
+    "anillo": "C",
+    "n_actividades": 1,
+    "descripcion": "Festival gastronómico playero en Semana Santa. Tamales de pescado: manea, chanchamito, caminito, de elote. Cocción a fuego lento en fogón de traspatio con leña de mangle y madera de pimienta."
+  },
+  {
+    "mes": "Junio",
+    "practica": "Cocina tradicional",
+    "categoria": "Ingredientes de temporada",
+    "anillo": "C",
+    "n_actividades": 1,
+    "descripcion": "Mayor disponibilidad de ostión y jaiba en la laguna. Preparación de chilpachole de jaiba, minilla de pescado, ceviche, escabeche de ostión. Ingredientes traídos directamente de la pesca del día."
+  },
+  {
+    "mes": "Julio",
+    "practica": "Cocina tradicional",
+    "categoria": "Cocina festiva",
+    "anillo": "C",
+    "n_actividades": 1,
+    "descripcion": "Máxima actividad gastronómica durante la Feria de Santa Ana (17-26 julio). Platillos representativos: ostión al tapesco, minilla, jaiba enchipotlada, tamales, dulces de coco, nance y papaya, aguas frescas."
+  },
+  {
+    "mes": "Noviembre",
+    "practica": "Cocina tradicional",
+    "categoria": "Cocina festiva",
+    "anillo": "C",
+    "n_actividades": 1,
+    "descripcion": "Tamales de pescado y chanchamitos para Día de Muertos (1-2 noviembre). Preparación de ofrendas con comida tradicional. Envolturas en hoja de plátano y hoja de maíz."
+  },
+  {
+    "mes": "Diciembre",
+    "practica": "Cocina tradicional",
+    "categoria": "Cocina festiva",
+    "anillo": "C",
+    "n_actividades": 1,
+    "descripcion": "Temporada navideña: tamales de varios tipos, horneado de pollo y pavo en fogón con brasa, ponche. Producción por encargo vía teléfono y Facebook. Ensalada de frutas navideña."
+  },
+  {
+    "mes": "Enero",
+    "practica": "Pesca",
+    "categoria": "Mantenimiento y preparación",
+    "anillo": "C",
+    "n_actividades": 3,
+    "descripcion": "Mantenimiento de artes de pesca; Preparación de equipos y herramientas; Revisión de embarcaciones"
+  },
+  {
+    "mes": "Enero",
+    "practica": "Pesca",
+    "categoria": "Veda y descanso",
+    "anillo": "C",
+    "n_actividades": 1,
+    "descripcion": "Inicio del periodo de descanso o 'veda'"
+  },
+  {
+    "mes": "Febrero",
+    "practica": "Pesca",
+    "categoria": "Mantenimiento y preparación",
+    "anillo": "C",
+    "n_actividades": 2,
+    "descripcion": "Reparación de lanchas, limpieza de artes de pesca; Preparación para el inicio de la temporada"
+  },
+  {
+    "mes": "Febrero",
+    "practica": "Pesca",
+    "categoria": "Monitoreo ambiental",
+    "anillo": "C",
+    "n_actividades": 1,
+    "descripcion": "Monitoreo del clima"
+  },
+  {
+    "mes": "Febrero",
+    "practica": "Pesca",
+    "categoria": "Veda y descanso",
+    "anillo": "C",
+    "n_actividades": 1,
+    "descripcion": "Continuación de la veda"
+  },
+  {
+    "mes": "Marzo",
+    "practica": "Pesca",
+    "categoria": "Cultivo y acuacultura",
+    "anillo": "C",
+    "n_actividades": 3,
+    "descripcion": "Madurez sexual del ostión; Presencia de semilla en bancos naturales; Inicio de la Época de reproducción"
+  },
+  {
+    "mes": "Abril",
+    "practica": "Pesca",
+    "categoria": "Cultivo y acuacultura",
+    "anillo": "C",
+    "n_actividades": 2,
+    "descripcion": "Época de reproducción; Desove con condiciones climáticas favorables"
+  },
+  {
+    "mes": "Abril",
+    "practica": "Pesca",
+    "categoria": "Monitoreo ambiental",
+    "anillo": "C",
+    "n_actividades": 2,
+    "descripcion": "Incremento de temperatura del agua; Inicio de primavera"
+  },
+  {
+    "mes": "Mayo",
+    "practica": "Pesca",
+    "categoria": "Cultivo y acuacultura",
+    "anillo": "C",
+    "n_actividades": 2,
+    "descripcion": "Reproducción activa; Alta presencia de larvas y fijación en colectores"
+  },
+  {
+    "mes": "Mayo",
+    "practica": "Pesca",
+    "categoria": "Pesca y captura",
+    "anillo": "C",
+    "n_actividades": 2,
+    "descripcion": "Captura de semilla; Colocación de cultivos suspendidos"
+  },
+  {
+    "mes": "Junio",
+    "practica": "Pesca",
+    "categoria": "Comercialización",
+    "anillo": "C",
+    "n_actividades": 1,
+    "descripcion": "Mayor demanda de mercados"
+  },
+  {
+    "mes": "Junio",
+    "practica": "Pesca",
+    "categoria": "Cultivo y acuacultura",
+    "anillo": "C",
+    "n_actividades": 1,
+    "descripcion": "Crecimiento del ostión"
+  },
+  {
+    "mes": "Junio",
+    "practica": "Pesca",
+    "categoria": "Monitoreo ambiental",
+    "anillo": "C",
+    "n_actividades": 1,
+    "descripcion": "Aumento de temperatura del agua"
+  },
+  {
+    "mes": "Junio",
+    "practica": "Pesca",
+    "categoria": "Pesca y captura",
+    "anillo": "C",
+    "n_actividades": 1,
+    "descripcion": "Captura de ostión de talla comercial"
+  },
+  {
+    "mes": "Julio",
+    "practica": "Pesca",
+    "categoria": "Mantenimiento y preparación",
+    "anillo": "C",
+    "n_actividades": 2,
+    "descripcion": "Mantenimiento de los bancos; Limpieza de colectores"
+  },
+  {
+    "mes": "Julio",
+    "practica": "Pesca",
+    "categoria": "Pesca y captura",
+    "anillo": "C",
+    "n_actividades": 2,
+    "descripcion": "Captura de ostión; Mayor actividad pesquera"
+  },
+  {
+    "mes": "Agosto",
+    "practica": "Pesca",
+    "categoria": "Mantenimiento y preparación",
+    "anillo": "C",
+    "n_actividades": 1,
+    "descripcion": "Revisión de bancos ostrícolas"
+  },
+  {
+    "mes": "Agosto",
+    "practica": "Pesca",
+    "categoria": "Monitoreo ambiental",
+    "anillo": "C",
+    "n_actividades": 1,
+    "descripcion": "Monitoreo de oxígeno disuelto y salinidad"
+  },
+  {
+    "mes": "Agosto",
+    "practica": "Pesca",
+    "categoria": "Veda y descanso",
+    "anillo": "C",
+    "n_actividades": 1,
+    "descripcion": "Disminución de captura por cierre de temporada"
+  },
+  {
+    "mes": "Septiembre",
+    "practica": "Pesca",
+    "categoria": "Mantenimiento y preparación",
+    "anillo": "C",
+    "n_actividades": 1,
+    "descripcion": "Recolección de colectores"
+  },
+  {
+    "mes": "Septiembre",
+    "practica": "Pesca",
+    "categoria": "Monitoreo ambiental",
+    "anillo": "C",
+    "n_actividades": 1,
+    "descripcion": "Monitoreo ambiental"
+  },
+  {
+    "mes": "Septiembre",
+    "practica": "Pesca",
+    "categoria": "Veda y descanso",
+    "anillo": "C",
+    "n_actividades": 2,
+    "descripcion": "Época de veda; Descanso de los bancos"
+  },
+  {
+    "mes": "Octubre",
+    "practica": "Pesca",
+    "categoria": "Mantenimiento y preparación",
+    "anillo": "C",
+    "n_actividades": 2,
+    "descripcion": "Reparación de embarcaciones y herramientas; Limpieza de áreas de cultivo"
+  },
+  {
+    "mes": "Octubre",
+    "practica": "Pesca",
+    "categoria": "Veda y descanso",
+    "anillo": "C",
+    "n_actividades": 1,
+    "descripcion": "Continuación de la veda"
+  },
+  {
+    "mes": "Noviembre",
+    "practica": "Pesca",
+    "categoria": "Cultivo y acuacultura",
+    "anillo": "C",
+    "n_actividades": 1,
+    "descripcion": "Observación de larvas tempranas"
+  },
+  {
+    "mes": "Noviembre",
+    "practica": "Pesca",
+    "categoria": "Mantenimiento y preparación",
+    "anillo": "C",
+    "n_actividades": 1,
+    "descripcion": "Preparación de la siguiente temporada de siembra"
+  },
+  {
+    "mes": "Noviembre",
+    "practica": "Pesca",
+    "categoria": "Pesca y captura",
+    "anillo": "C",
+    "n_actividades": 1,
+    "descripcion": "Colocación de nuevos colectores"
+  },
+  {
+    "mes": "Diciembre",
+    "practica": "Pesca",
+    "categoria": "Mantenimiento y preparación",
+    "anillo": "C",
+    "n_actividades": 1,
+    "descripcion": "Preparación del equipo de trabajo"
+  },
+  {
+    "mes": "Diciembre",
+    "practica": "Pesca",
+    "categoria": "Pesca y captura",
+    "anillo": "C",
+    "n_actividades": 1,
+    "descripcion": "Inicio del nuevo ciclo productivo"
+  },
+  {
+    "mes": "Diciembre",
+    "practica": "Pesca",
+    "categoria": "Veda y descanso",
+    "anillo": "C",
+    "n_actividades": 1,
+    "descripcion": "Finaliza la veda"
+  }
+]

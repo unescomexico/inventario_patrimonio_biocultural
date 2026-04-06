@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Red Patrimonial — Sánchez Magallanes, Tabasco</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+
+  <!-- TOP NAV -->
+  <nav id="topnav">
+    <div class="nav-brand">
+      <span class="nav-tag">UNESCO · ENI México</span>
+      <span class="nav-title">Inventario de Patrimonio <em>Biocultural</em></span>
+      <span class="nav-sub">Sánchez Magallanes, Cárdenas, Tabasco</span>
+    </div>
+    <div class="nav-tabs">
+      <button class="nav-tab active" data-section="red">Red de vínculos</button>
+      <button class="nav-tab" data-section="flor">Análisis FLOR</button>
+      <button class="nav-tab" data-section="calendario">Ciclo calendárico</button>
+    </div>
+  </nav>
+
+  <!-- ══════════════════════════════════════
+       SECCIÓN 1 — RED DE VÍNCULOS
+  ══════════════════════════════════════ -->
+  <section id="section-red" class="app-section active">
+
+    <aside id="controls">
+
+      <!-- CAPAS (layer toggles) -->
+      <div class="controls-section">
+        <div class="sidebar-section-title">Capas de la red</div>
+        <div id="layer-toggles" class="layer-toggles"></div>
+      </div>
+
+      <div class="sidebar-divider"></div>
+
+      <!-- Prácticas -->
+      <div class="controls-section">
+        <button class="collapsible-header open" data-target="filter-practicas">
+          <span>Filtrar por práctica</span>
+          <span class="caret">&#9660;</span>
+        </button>
+        <div id="filter-practicas" class="filter-group collapsible-body open"></div>
+      </div>
+
+      <!-- FLOR -->
+      <div class="controls-section">
+        <button class="collapsible-header open" data-target="filter-flor">
+          <span>Componente FLOR</span>
+          <span class="caret">&#9660;</span>
+        </button>
+        <div id="filter-flor" class="filter-group collapsible-body open"></div>
+      </div>
+
+      <!-- ODS -->
+      <div class="controls-section">
+        <button class="collapsible-header" data-target="filter-ods">
+          <span>ODS</span>
+          <span class="caret">&#9660;</span>
+        </button>
+        <div id="filter-ods" class="filter-group collapsible-body" style="display:none"></div>
+      </div>
+
+      <div class="controls-section">
+        <button id="btn-reset" class="btn-reset">Restablecer filtros</button>
+      </div>
+
+    </aside>
+
+    <main id="graph-container">
+      <svg id="graph-svg"></svg>
+      <div id="tooltip"></div>
+    </main>
+  </section>
+
+  <!-- ══════════════════════════════════════
+       SECCIÓN 2 — ANÁLISIS FLOR
+  ══════════════════════════════════════ -->
+  <section id="section-flor" class="app-section">
+    <div class="flor-page">
+      <div class="flor-page-header">
+        <h2>Análisis FLOR de prácticas culturales</h2>
+        <p>Fortalezas · Logros · Oportunidades · Retos · Debilidades · Amenazas</p>
+      </div>
+
+      <div class="flor-filters">
+        <div id="flor-filter-comp" class="flor-filter-row"></div>
+        <div id="flor-filter-prac" class="flor-filter-row"></div>
+      </div>
+
+      <!-- Cabecera de columnas -->
+      <div class="flor-table-header">
+        <div class="flor-th-enunciado">Enunciado</div>
+        <div class="flor-th-practicas">Prácticas vinculadas <span class="flor-th-hint">(clic para abrir ficha)</span></div>
+      </div>
+
+      <div id="flor-table-container"></div>
+    </div>
+  </section>
+
+  <!-- ══════════════════════════════════════
+       SECCIÓN 3 — CALENDARIO
+  ══════════════════════════════════════ -->
+  <section id="section-calendario" class="app-section">
+    <div class="cal-page">
+      <div class="cal-page-header">
+        <h2>Ciclo calendárico de prácticas culturales</h2>
+        <p>Villa y Puerto Coronel Andrés Sánchez Magallanes, Cárdenas, Tabasco</p>
+      </div>
+      <div class="cal-controls">
+        <div id="cal-filter-practica" class="cal-chips"></div>
+        <button id="cal-btn-reset" class="btn-reset cal-btn-reset">Restablecer filtros</button>
+      </div>
+      <div class="cal-layout">
+        <div class="cal-sunburst-wrap">
+          <svg id="cal-svg"></svg>
+        </div>
+        <div id="cal-detail" class="cal-detail">
+          <div class="cal-detail-placeholder">
+            <p>Haz clic en un segmento del calendario para ver el detalle de actividades de ese mes y práctica.</p>
+          </div>
+        </div>
+      </div>
+      <div id="cal-legend" class="cal-legend"></div>
+    </div>
+  </section>
+
+  <!-- CARD MODAL -->
+  <div id="modal-overlay" class="hidden">
+    <div id="modal-card">
+      <button id="modal-close">&#215;</button>
+      <div id="modal-content"></div>
+    </div>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+  <script src="js/data.js"></script>
+  <script src="js/graph.js"></script>
+  <script src="js/filters.js"></script>
+  <script src="js/card.js"></script>
+  <script src="js/flor_page.js"></script>
+  <script src="js/calendario.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>
