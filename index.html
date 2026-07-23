@@ -18,10 +18,16 @@
       <span class="nav-title">Inventario de Patrimonio <em>Biocultural</em></span>
       <span class="nav-sub">Sánchez Magallanes, Cárdenas, Tabasco</span>
     </div>
-    <div class="nav-tabs">
-      <button class="nav-tab active" data-section="red">Red de vínculos</button>
-      <button class="nav-tab" data-section="flor">Análisis FLOR</button>
-      <button class="nav-tab" data-section="calendario">Ciclo calendárico</button>
+    <div class="nav-right">
+      <div class="nav-tabs">
+        <button class="nav-tab active" data-section="red">Red de vínculos</button>
+        <button class="nav-tab" data-section="flor">Análisis FLOR</button>
+        <button class="nav-tab" data-section="calendario">Ciclo calendárico</button>
+      </div>
+      <div class="nav-logos">
+        <img src="img/logos_tabasco.png" alt="Gobierno del Estado de Tabasco · Secretaría de Cultura · Secretaría de Turismo" class="nav-logo nav-logo-tabasco" />
+        <img src="img/UNESCO_blanco.png" alt="UNESCO" class="nav-logo nav-logo-unesco" />
+      </div>
     </div>
   </nav>
 
@@ -130,6 +136,24 @@
       <div id="cal-legend" class="cal-legend"></div>
     </div>
   </section>
+
+  <!-- INTRO OVERLAY -->
+  <div id="intro-overlay" class="hidden">
+    <div id="intro-card">
+      <button id="intro-close" aria-label="Cerrar">&#215;</button>
+      <div class="intro-tag">UNESCO · ENI México</div>
+      <h1 class="intro-title">Inventario de Patrimonio <em>Biocultural</em></h1>
+      <p class="intro-sub">Villa y Puerto Coronel Andrés Sánchez Magallanes, Cárdenas, Tabasco</p>
+
+      <div class="intro-body">
+        <p>Esta plataforma reúne, de manera interactiva, el inventario de patrimonio biocultural de Sánchez Magallanes: las prácticas culturales, pesqueras, agrícolas, artesanales y festivas de la comunidad, junto con los vínculos que las conectan entre sí y con el territorio.</p>
+        <p>El sitio se organiza en tres secciones complementarias: la <strong>Red de vínculos</strong>, que muestra de forma gráfica las relaciones entre prácticas, personas, lugares y saberes; el <strong>Análisis FLOR</strong>, que sistematiza fortalezas, logros, oportunidades y retos identificados para cada práctica; y el <strong>Ciclo calendárico</strong>, que ordena las actividades a lo largo del año.</p>
+        <p>Este proyecto se llevó a cabo gracias al apoyo y al aval del Gobierno del Estado de Tabasco, a través de la Secretaría de Cultura del Estado y la Secretaría de Turismo del Estado, en el marco de la colaboración con la Oficina de la UNESCO en México.</p>
+      </div>
+
+      <button id="intro-start" class="intro-btn">Explorar el inventario</button>
+    </div>
+  </div>
 
   <!-- CARD MODAL -->
   <div id="modal-overlay" class="hidden">

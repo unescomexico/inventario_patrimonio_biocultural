@@ -35,6 +35,17 @@
     // Init calendario
     Calendario.init(appData);
 
+    // Intro overlay — shown once per page load
+    const introOverlay = document.getElementById("intro-overlay");
+    const closeIntro = () => introOverlay.classList.add("hidden");
+    introOverlay.classList.remove("hidden");
+    document.getElementById("intro-close").addEventListener("click", closeIntro);
+    document.getElementById("intro-start").addEventListener("click", closeIntro);
+    introOverlay.addEventListener("click", e => { if (e.target === introOverlay) closeIntro(); });
+    document.addEventListener("keydown", e => {
+      if (e.key === "Escape" && !introOverlay.classList.contains("hidden")) closeIntro();
+    });
+
     // Tab switching
     document.querySelectorAll(".nav-tab").forEach(tab => {
       tab.addEventListener("click", () => {
