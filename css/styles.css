@@ -21,7 +21,7 @@
   --c-musica:    #7a8fd5;
   --c-fiesta:    #e06880;
 
-  --nav-h: 58px;
+  --nav-h: 66px;
   --sidebar-w: 230px;
   --radius: 10px;
   --shadow: 0 8px 40px rgba(0,0,0,0.5);
@@ -41,16 +41,22 @@ html,body{width:100%;height:100%;overflow:hidden;background:var(--bg);color:var(
   padding:0 24px;gap:24px;
 }
 .nav-brand{display:flex;align-items:baseline;gap:10px;flex-shrink:0}
-.nav-tag{font-size:9px;letter-spacing:2px;text-transform:uppercase;color:var(--accent);font-weight:600}
 .nav-title{font-family:'Playfair Display',serif;font-size:18px;font-weight:700;color:var(--text)}
 .nav-title em{font-style:italic;color:var(--accent2)}
 .nav-sub{font-size:11px;color:var(--text-muted)}
+.nav-info-btn{
+  align-self:center;width:19px;height:19px;border-radius:50%;
+  background:transparent;border:1px solid var(--border);color:var(--text-muted);
+  font-size:13px;line-height:1;cursor:pointer;display:flex;align-items:center;justify-content:center;
+  transition:all var(--tr);flex-shrink:0;padding:0;
+}
+.nav-info-btn:hover{color:var(--accent);border-color:var(--accent)}
 .nav-right{display:flex;align-items:center;gap:22px;flex-shrink:0}
 .nav-tabs{display:flex;gap:4px}
-.nav-logos{display:flex;align-items:center;gap:16px;padding-left:18px;border-left:1px solid var(--border)}
-.nav-logo{display:block;height:26px;width:auto;object-fit:contain}
-.nav-logo-tabasco{height:24px}
-.nav-logo-unesco{height:20px}
+.nav-logos{display:flex;align-items:center;gap:20px;padding-left:20px;border-left:1px solid var(--border)}
+.nav-logo{display:block;height:38px;width:auto;object-fit:contain}
+.nav-logo-tabasco{height:36px}
+.nav-logo-unesco{height:30px}
 .nav-tab{
   padding:7px 18px;background:transparent;border:1px solid var(--border);
   border-radius:6px;color:var(--text-muted);font-family:'DM Sans',sans-serif;
@@ -432,6 +438,6 @@ html,body{width:100%;height:100%;overflow:hidden;background:var(--bg);color:var(
 
 @media (max-width: 720px){
   .nav-logos{padding-left:0;border-left:none}
-  .nav-logo-tabasco{height:18px}
-  .nav-logo-unesco{height:15px}
+  .nav-logo-tabasco{height:22px}
+  .nav-logo-unesco{height:18px}
 }

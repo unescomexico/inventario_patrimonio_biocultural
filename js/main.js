@@ -35,12 +35,14 @@
     // Init calendario
     Calendario.init(appData);
 
-    // Intro overlay — shown once per page load
+    // Intro overlay — shown once on load, reopenable via the info button
     const introOverlay = document.getElementById("intro-overlay");
+    const openIntro = () => introOverlay.classList.remove("hidden");
     const closeIntro = () => introOverlay.classList.add("hidden");
-    introOverlay.classList.remove("hidden");
+    openIntro();
     document.getElementById("intro-close").addEventListener("click", closeIntro);
     document.getElementById("intro-start").addEventListener("click", closeIntro);
+    document.getElementById("nav-info-btn").addEventListener("click", openIntro);
     introOverlay.addEventListener("click", e => { if (e.target === introOverlay) closeIntro(); });
     document.addEventListener("keydown", e => {
       if (e.key === "Escape" && !introOverlay.classList.contains("hidden")) closeIntro();
