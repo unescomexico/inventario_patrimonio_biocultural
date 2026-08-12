@@ -6,7 +6,7 @@
   loading.style.cssText = "position:fixed;inset:0;background:#0b1220;display:flex;flex-direction:column;align-items:center;justify-content:center;z-index:9999;font-family:'DM Sans',sans-serif;color:#7a8fa8";
   loading.innerHTML = `
     <div style="font-family:'Playfair Display',serif;font-size:26px;color:#e8edf5;margin-bottom:10px">
-      Red Patrimonial <em style="color:#e8a84b">Biocultural</em>
+      Inventario Comunitario de Patrimonio <em style="color:#e8a84b">Biocultural</em>
     </div>
     <div style="font-size:12px;letter-spacing:1px;margin-bottom:28px">Sánchez Magallanes, Tabasco</div>
     <div style="display:flex;gap:7px">
